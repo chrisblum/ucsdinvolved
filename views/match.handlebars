@@ -9,7 +9,6 @@
 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
 	<link href="css/introHCI.css" rel="stylesheet">
-  
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 		<script src="js/hci-friends.js"></script>
@@ -139,54 +138,19 @@
   </div>
 </div>
 
-	<div style = 'text-align:center'>
-    
-    <div class="jumbotron" id="smallerjumbo">
-      <h1>Triton Hub</h1>
-      <p>Getting Involved Made Easy!</p>
-    </div>
-  <!--  <p><font color= "#0000A0"><b> Triton Hub is your one-stop site to finding everything you need to know about all the ways to get involved here at UC San Diego. Get information on clubs and organizations here on campus, connect with fellow members, be notified on upcoming meetings and events, and find a club that's right for you! </b></font></p> 
-    <h3><b>Welcome Kate!</b></h3>
-    <h5> Not you? </h4> -->
+	<div class="container">
+	<h1>My HCI Friends</h1>
 
-    <div class="container-fluid">
-      <div class= "row">
-        <div class = "col-xs-6">
-          <div class="project" id="project3">
-            <a href="myclubs.html" class="thumbnail">
-              <img src="images/icons/myclubs.jpg" alt="UCSD library" class="img"/>
-            </a>
-          </div>
-          </div>
-        <div class = "col-xs-6">
-          <div class="project" id="project4">
-            <a href="currentevents.html" class="thumbnail">
-              <img src="images/icons/myevents.jpg" alt="UCSD Events" class="img"/>
-              </a>
-            </div>
-          </div>
-        </div>
-    </div>
+	{{#each friends}}
+	<div class="myfriend">
 
-    <div class="container-fluid">
-      <div class= "row">
-        <div class = "col-xs-6">
-          <div class="project" id="project3">
-            <a href="info.html" class="thumbnail">
-              <img src="images/icons/clubslist.jpg" alt="Library walk" class="img"/>
-            </a>
-          </div>
-          </div>
-        <div class = "col-xs-6">
-          <div class="project" id="project4">
-            <a href="match.html" class="thumbnail">
-              <img src="images/icons/matchme.jpg" alt="Match" class="img"/>
-              </a>
-            </div>
-          </div>
-        </div>
-    </div>
-</div>
+	<img src="{{imageURL}}" class="img-responsive img-rounded"/>
+	<div class="nameselection"><a href="#"><h3>{{name}}</h3></a></div>
+	<p>{{description}}</p>
+	<hr>
+
+	</div>
+	{{/each}}
 
 	<form id="addFriendForm" role="form" method="get" action="/add">
 		<h3>Add a friend</h3>
@@ -201,18 +165,6 @@
 	    <input type="submit" id="submitBtn" class="btn btn-default" value="Add the friend"></input>
 	</form>
 
-	<form id="addFriendForm" role="form" method="get" action="/club">
-	    <input type="submit" id="submitBtn" class="btn btn-default" value="Add the friend"></input>
-	</form>
-  <form id="addFriendForm" role="form" method="get" action="/match">
-      <input type="submit" id="submitBtn" class="btn btn-default" value="Add the friend"></input>
-  </form>
-    <form id="addFriendForm" role="form" method="get" action="/my">
-      <input type="submit" id="submitBtn" class="btn btn-default" value="Add the friend"></input>
-  </form>
-    <form id="addFriendForm" role="form" method="get" action="/myevent">
-      <input type="submit" id="submitBtn" class="btn btn-default" value="Add the friend"></input>
-  </form>
 </div>
 
 </body>
