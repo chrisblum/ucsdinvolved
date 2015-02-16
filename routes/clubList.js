@@ -1,8 +1,8 @@
 var data = require("../data.json");
 
-exports.addFriend = function(req, res) {    
+exports.allClubs = function(req, res) {    
 	console.log(data);
-	res.render('list', data);
+	res.render('clubList', data);
 //	var name = res.query.name;
 //	var description = res.query.description;
 //	console.log(name);
