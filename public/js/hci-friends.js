@@ -12,7 +12,22 @@ function initializePage() {
 	console.log("Javascript connected!");
 
 	$(".nameselection").click(anagramthing);
+	$(".testclass").click(getData);
 }
+
+function getData(e) {
+	$.get("../../data.json", callbackFn);
+	console.log("working");
+
+}
+
+function callbackFn(result) {
+		console.log(result);
+		var finaladdon = '<a href="#" class="thumbnail">' +'1'+ '<img src="' + result['image'] + '" class="img">' + '<p>' + result['title'] + '</p>' + '<p><small>' + result['date'] + '</small></p></a>' + result['id'] + ':' + result['summary'];
+		console.log(finaladdon);
+		$("#project-container").html(finaladdon);
+	}
+
 
 function anagrammedName(name) {
 	// Thanks, Internet Anagram Server!

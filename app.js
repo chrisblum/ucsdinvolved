@@ -14,6 +14,7 @@ var club = require('./routes/club');
 var myevent = require('./routes/myevent');
 var match = require('./routes/match');
 var my = require('./routes/my');
+var project = require('./routes/project');
 // Example route
 // var user = require('./routes/user');
 
@@ -42,10 +43,11 @@ if ('development' == app.get('env')) {
 // Add routes here
 app.get('/', index.view);
 app.get('/add', add.addFriend);
-app.get('/club',club.showAll);
-app.get('/myevent',myevent.populate);
-app.get('/match',match.findMatch);
-app.get('/my',my.allEvents);
+app.get('/club', club.showAll);
+app.get('/myevent', myevent.populate);
+app.get('/match', match.findMatch);
+app.get('/my', my.allEvents);
+app.get('/project/:id', project.projectInfo);
 // Example route
 // app.get('/users', user.list);
 

@@ -7,7 +7,8 @@
 			"URL": "acamazing.html",
 			"website": "http://acamazing.ucsd.edu",		
 			"president": "Briana Zimmers",
-			"vp": "Nathan Thai"
+			"vp": "Nathan Thai",
+			"idnum": 1
 		},
 		{
 			"name": "American Institute of Chemical Engineers",
@@ -16,7 +17,8 @@
 			"URL": "aiche.html",
 			"website": "http://aiche.ucsd.edu",
 			"president": "Bao Vo Ngo",
-			"vp": "Sarah Diaz/ Amy Chung"			
+			"vp": "Sarah Diaz/ Amy Chung",
+			"idnum": 2			
 		},
 		{
 			"name": "Anthropology Club",
@@ -25,7 +27,8 @@
 			"URL": "anthro.html",
 			"website": "http://anthroclub.ucsd.edu",
 			"president": "Sarah Mace",
-			"vp": "Althea Escalante"		
+			"vp": "Althea Escalante",
+			"idnum": 3	
 		},
 		{
 			"name": "Boxing Club at UCSD",
@@ -34,7 +37,8 @@
 			"URL": "boxing.html",
 			"website": "http://boxingatucsd.weebly.com",
 			"president": "Kurt Nyugen",
-			"vp": "Nathaneal Malazo"	
+			"vp": "Nathaneal Malazo",
+			"idnum": 4	
 		},
 		{
 			"name": "Circle K International",
@@ -43,7 +47,8 @@
 			"URL": "cki.html",
 			"website" : "http://ucsdcki.org",
 			"president": "Joseph Le",
-			"vp": "Emilie Shen"
+			"vp": "Emilie Shen",
+			"idnum": 5
 		},
 		{
 			"name": "Cognitive Science Student Association",
@@ -52,7 +57,8 @@
 			"URL": "cssa.html",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
-			"vp": "Wednesday Bushong"
+			"vp": "Wednesday Bushong",
+			"idnum": 6
 		}
 	]
 }
