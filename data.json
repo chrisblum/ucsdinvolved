@@ -8,7 +8,8 @@
 			"website": "http://acamazing.ucsd.edu",		
 			"president": "Briana Zimmers",
 			"vp": "Nathan Thai",
-			"idnum": 1
+			"idnum": 1,
+			"link": "acamazing"
 		},
 		{
 			"name": "American Institute of Chemical Engineers",
@@ -18,7 +19,8 @@
 			"website": "http://aiche.ucsd.edu",
 			"president": "Bao Vo Ngo",
 			"vp": "Sarah Diaz/ Amy Chung",
-			"idnum": 2			
+			"idnum": 2,
+			"link": "aiche"		
 		},
 		{
 			"name": "Anthropology Club",
@@ -28,7 +30,8 @@
 			"website": "http://anthroclub.ucsd.edu",
 			"president": "Sarah Mace",
 			"vp": "Althea Escalante",
-			"idnum": 3	
+			"idnum": 3,
+			"link": "anthropology"
 		},
 		{
 			"name": "Boxing Club at UCSD",
@@ -38,17 +41,19 @@
 			"website": "http://boxingatucsd.weebly.com",
 			"president": "Kurt Nyugen",
 			"vp": "Nathaneal Malazo",
-			"idnum": 4	
+			"idnum": 4,
+			"link": "boxing"
 		},
 		{
 			"name": "Circle K International",
-			"description": "Circle K Internation (CKI) is an organization at the collegiate and university levels. CKI promotes community service, leadership development, and fellowship and frienship.",
+			"description": "Circle K International (CKI) is an organization at the collegiate and university levels. CKI promotes community service, leadership development, and fellowship and frienship.",
 			"imageURL": "https://c1.staticflickr.com/9/8531/8505099001_c0b1d24b85_z.jpg",
 			"URL": "cki.html",
 			"website" : "http://ucsdcki.org",
 			"president": "Joseph Le",
 			"vp": "Emilie Shen",
-			"idnum": 5
+			"idnum": 5,
+			"link": "circlek"
 		},
 		{
 			"name": "Cognitive Science Student Association",
@@ -58,7 +63,8 @@
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
 			"vp": "Wednesday Bushong",
-			"idnum": 6
+			"idnum": 6,
+			"link": "cssa"
 		}
 	]
 }

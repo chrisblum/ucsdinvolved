@@ -50,7 +50,7 @@ app.get('/club', club.showAll);
 app.get('/myevent', myevent.populate);
 app.get('/match', match.findMatch);
 app.get('/my', my.allEvents);
-app.get('/project/:id', project.projectInfo);
+app.get('/project/:name', project.projectInfo);
 // Example route
 // app.get('/users', user.list);
 
