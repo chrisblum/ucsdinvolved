@@ -6,7 +6,7 @@
 var express = require('express');
 var http = require('http');
 var path = require('path');
-var handlebars = require('express3-handlebars')
+var handlebars = require('express-handlebars')
 
 var index = require('./routes/index');
 var add = require('./routes/add');
@@ -23,7 +23,7 @@ var app = express();
 // all environments
 app.set('port', process.env.PORT || 3000);
 app.set('views', path.join(__dirname, 'views'));
-app.engine('handlebars', handlebars());
+app.engine('handlebars', handlebars({defaultLayout: 'main'}));
 app.set('view engine', 'handlebars');
 app.use(express.favicon());
 app.use(express.logger('dev'));
@@ -41,7 +41,10 @@ if ('development' == app.get('env')) {
 }
 
 // Add routes here
-app.get('/', index.view);
+// app.get('/', index.view);
+app.get('/', function(req,res) {
+	res.render('home');
+});
 app.get('/add', add.addFriend);
 app.get('/club', club.showAll);
 app.get('/myevent', myevent.populate);
