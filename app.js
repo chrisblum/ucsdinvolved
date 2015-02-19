@@ -18,6 +18,12 @@ var project = require('./routes/project');
 // Example route
 // var user = require('./routes/user');
 
+//defining some variables (local to application)
+
+// app.locals.testUsername = 'testing123';
+// app.locals.testPassword = 'testpassword';
+// app.locals.testEmail = 'chris@email.com';
+
 var app = express();
 
 // all environments

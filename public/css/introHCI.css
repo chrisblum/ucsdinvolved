@@ -1,18 +1,9 @@
-
-.example-class-selector {
-	margin-top: 2em;
-}
-
-
-.example-class-selector p {	
-	color: #CC00AA;
-}
-
 body {
      border: 1px dotted gray;
      padding: 20px;
      background-color:#E4E2E4;
 }
+
 
 .bg-style {
   background: url("../images/bg.png");
@@ -24,6 +15,7 @@ body {
 .jumbotron {
 	position: relative;
 	background: none;
+  height:130px;
 
 }
 
@@ -38,7 +30,7 @@ body {
      bottom: 0;
      right: 0;
      position: absolute;
-     z-index: -1;	
+     height:130px;
 }
 
 .project a {
@@ -88,9 +80,10 @@ body {
     margin-top:-40px;
 }
 
+
 #smallerjumbo {
-    height:170px;
-    padding-bottom:-200px;
+    height:130px;
+    padding-bottom:-50px;
 }
 
 .img-responsive {  display: block;  height: auto;  max-width: 100%; }
