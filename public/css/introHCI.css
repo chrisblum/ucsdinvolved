@@ -11,12 +11,20 @@
 body {
      border: 1px dotted gray;
      padding: 20px;
+     background-color:#E4E2E4;
+}
+
+.bg-style {
+  background: url("../images/bg.png");
+  background-repeat: repeat;
+  background-position: center;
 
 }
 
 .jumbotron {
 	position: relative;
 	background: none;
+
 }
 
 .jumbotron:after {

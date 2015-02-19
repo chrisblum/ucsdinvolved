@@ -10,10 +10,33 @@ exports.projectInfo = function(req, res) { 
 	// console.log(projectID);
  //  	var project = projects[projectID-1]; // of by one, our first project has index 0
   	// res.json(project);
-  	console.log(req.params.id);
-  	var name = req.params.id;
+  	console.log(req.params.name);
+  	var name = req.params.name;
   	console.log("The project name is: " + name);
-  	res.render('project', {
-  		'projectName': name
-  	});
+  	var testing = name;
+
+  	var newvalue = search(projects,testing);
+
+  	function search(source, name) {
+    var results = [];
+    var index;
+    var entry;
+
+    name = name.toUpperCase();
+    for (index = 0; index < source.length; ++index) {
+        entry = source[index];
+        if (entry && entry.name && entry.name.toUpperCase().indexOf(name) !== -1) {
+            results.push(entry);
+        }
+    }
+
+    return results;
+}
+	console.log(newvalue);
+
+  	// res.render('project', {
+  	// 	data, 'projectName': name
+  	// });
+
+	res.render('project',newvalue);
 }
