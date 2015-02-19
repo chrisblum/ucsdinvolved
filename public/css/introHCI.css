@@ -61,29 +61,35 @@ body {
 
 #searchnav {
     width:21%;
-    margin-top:-40px;
+    margin-top:-35px;
 }
 
 #helpnav {
     width:16%;
-    margin-top:-40px;
+    margin-top:-35px;
 
 }
 #contactnav {
 
     width:22%;
-    margin-top:-40px;
+    margin-top:-35px;
 }
 
 #welcomenav {
     width:41%;
-    margin-top:-40px;
+    margin-top:-35px;
 }
 
 
 #smallerjumbo {
     height:130px;
     padding-bottom:-50px;
+}
+
+#loginheader {
+  background-color:#DBDBDB;
+  margin-top:-20px;
+
 }
 
 .img-responsive {  display: block;  height: auto;  max-width: 100%; }

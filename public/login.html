@@ -14,8 +14,7 @@
 	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 		<script src="js/clubtriton.js"></script>
 
-//     <script>
-// $(document).ready(function(){
+<!-- // $(document).ready(function(){
 //     var from,to,email,subject,text;
 //     $("#submit").click(function(){      
 //         to="crexmob@gmail.com";
@@ -36,8 +35,7 @@
 
 // });
 //     });
-// });
-// </script>
+// }); -->
 
 <script>
   $('#submit').on('click', function(e){
@@ -78,7 +76,6 @@ $('#contact-form-mpodal').on('submit', function(){
 
 <body>
 <div class="bg-style">
-
 	<h5>
   <a href="#" class="btn btn-sm btn-default navbutton" id="searchnav" data-toggle="modal" data-target="#searchModal">Search</a><a href="#" class="btn btn-sm btn-default navbutton" id="helpnav" data-toggle="modal" data-target="#helpModal">Help</a><a href="#" class="btn btn-sm btn-default navbutton" id="contactnav" data-toggle="modal" data-target="#contactModal">Contact</a><a href="#" class="btn btn-sm btn-primary" id="welcomenav">Login</a>
   </h5>
@@ -186,7 +183,37 @@ $('#contact-form-mpodal').on('submit', function(){
 </div>
 
 <div> 
-	{{{body}}} 
+	<container>
+    <center>
+      <div class="jumbotron" id="smallerjumbo">
+        <h5>Welcome to...</h5>
+    <h1>Club Triton</h1>
+    </div><h3 id="loginheader">Login</h3>
+  </center>
+    <form class="form-horizontal" id="loginform" role="form" method="post" action="/login">
+          <div class="form-group">
+            <label for="username" class="col-sm-2 control-label">Username</label>
+              <div class="col-sm-10">
+              <input type="text" class="form-control" id="username" name="username" placeholder="Username" value="">
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="userpassword" class="col-sm-2 control-label">Password</label>
+              <div class="col-sm-10">
+              <input type="password" class="form-control" id="userpassword" name="userpassword" placeholder="Password" value="">
+              </div>
+          </div>
+
+          <center>
+          <button type="button" style="width:100%;" id="sendlogin" class="btn btn-primary">Log Me In!</button>
+
+          <div style="height:20px;"></div><div><a href="#">Sign up</a> &middot <a href="#">Forgot password?</a></div>
+          </center>
+
+        </form> 
+
+      </container>
 </div>
 
 </div>
