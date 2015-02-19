@@ -14,65 +14,6 @@
 	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 		<script src="js/clubtriton.js"></script>
 
-<!-- // $(document).ready(function(){
-//     var from,to,email,subject,text;
-//     $("#submit").click(function(){      
-//         to="crexmob@gmail.com";
-//         subject=$("#namer").val();
-//         email=$("#email").val();
-//         text=$("#message").val();
-//         $("#inprogress").text("Sending E-mail...Please wait");
-//         console.log("Sendingggggggg");
-//         $.get("http://localhost:5000/send",{to:to,subject:subject,email:email,text:text},function(data){
-//         if(data=="sent")
-//         {
-//             $("inprogress").empty().html("
-
-// Email has been sent at "+to+" . Please check inbox !
-
-// ");
-//         }
-
-// });
-//     });
-// }); -->
-
-
-<script>
-  $('#submit').on('click', function(e){
-    // We don't want this to act as a link so cancel the link action
-    e.preventDefault();
-
-    // Find form and submit it
-    $('#contact-form-modal').submit();
-  });
-</script>
-
-<script>
-$('#contact-form-mpodal').on('submit', function(){
-
-  //Serialize the form and post it to the server
-  $.post("/yourReceivingPage", $(this).serialize(), function(){
-
-    // When this executes, we know the form was submitted
-
-    // To give some time for the animation, 
-    // let's add a delay of 200 ms before the redirect
-    var delay = 200;
-    setTimeout(function(){
-      window.location.href = 'successUrl.html';
-    }, delay);
-
-    // Hide the modal
-    $("contactModal").modal('hide');
-
-  });
-
-  // Stop the normal form submission
-  return false;
-});
-</script>
-  
 </head>
 
 <body>
@@ -97,7 +38,7 @@ $('#contact-form-mpodal').on('submit', function(){
           <div class="form-group">
             <label for="name" class="col-sm-2 control-label">Name</label>
               <div class="col-sm-10">
-              <input type="text" class="form-control" id="namer" name="namer" placeholder="First & Last Name" value="">
+              <input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" value="">
             </div>
           </div>
 
@@ -114,15 +55,16 @@ $('#contact-form-mpodal').on('submit', function(){
               <textarea class="form-control" rows="4" id="message" name="message" placeholder="Enter your message here..." ></textarea>
               </div>
           </div>
- 
-        </form> 
+  
 
       </div>
 
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
-        <button type="button" id="submit" class="btn btn-primary">Send</button>
+        <button type="submit" value="submit" id="submit" class="btn btn-primary">Send</button>
       </div>
+
+    </form>
     </div>
   </div>
 </div>

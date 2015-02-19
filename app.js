@@ -29,14 +29,6 @@ var nodemailer = require('nodemailer');
 
 var app = express();
 
-var smtpTransport = nodemailer.createTransport("SMTP",{
-service: "Gmail",
-auth: {
-user: "crexmob@gmail.com",
-pass: "wearemafia1001"
-}
-});
-
 
 // all environments
 app.set('port', process.env.PORT || 3000);
@@ -47,7 +39,6 @@ app.use(express.favicon());
 app.use(express.logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded());
-// app.use(express.bodyParser());
 app.use(express.methodOverride());
 app.use(express.cookieParser('Intro HCI secret key'));
 app.use(express.session());
@@ -70,23 +61,25 @@ app.get('/myevent', myevent.populate);
 app.get('/match', match.findMatch);
 app.get('/my', my.allEvents);
 app.get('/project/:name', project.projectInfo);
-app.get('/send',function(req,res){
-var mailOptions={
-to : req.query.to,
-subject : req.query.subject,
-text : req.query.text
-}
-console.log(mailOptions);
-smtpTransport.sendMail(mailOptions, function(error, response){
-if(error){
-console.log(error);
-res.end("error");
-}else{
-console.log("Message sent: " + response.message);
-res.end("sent");
-}
-});
-});
+
+app.post('/contact', contact.contactnow);
+// app.get('/send',function(req,res){
+// var mailOptions={
+// to : req.query.to,
+// subject : req.query.subject,
+// text : req.query.text
+// }
+// console.log(mailOptions);
+// smtpTransport.sendMail(mailOptions, function(error, response){
+// if(error){
+// console.log(error);
+// res.end("error");
+// }else{
+// console.log("Message sent: " + response.message);
+// res.end("sent");
+// }
+// });
+// });
 
 
 // Example route
