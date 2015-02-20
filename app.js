@@ -16,6 +16,7 @@ var match = require('./routes/match');
 var my = require('./routes/my');
 var project = require('./routes/project');
 var contact = require('./routes/contact');
+var search = require('./routes/search');
 var login = require('./routes/login');
 var home = require('./routes/home');
 // Example route
@@ -57,6 +58,7 @@ app.get('/my', my.allEvents);
 app.get('/project/:name', project.projectInfo);
 app.get('/home', home.gridsystem);
 app.post('/contact', contact.contactnow);
+app.post('/search',search.searching);
 
 
 
