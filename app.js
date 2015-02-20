@@ -18,8 +18,6 @@ var project = require('./routes/project');
 var contact = require('./routes/contact');
 var login = require('./routes/login');
 var home = require('./routes/home');
-
-var nodemailer = require('nodemailer');
 // Example route
 // var user = require('./routes/user');
 
