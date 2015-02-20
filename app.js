@@ -10,10 +10,6 @@ var handlebars = require('express-handlebars')
 
 var index = require('./routes/index');
 var add = require('./routes/add');
-var club = require('./routes/club');
-var myevent = require('./routes/myevent');
-var match = require('./routes/match');
-var my = require('./routes/my');
 var project = require('./routes/project');
 var contact = require('./routes/contact');
 var search = require('./routes/search');
@@ -51,10 +47,10 @@ app.get('/', function(req,res) {
 	res.render('login');
 });
 app.get('/add', add.addFriend);
-app.get('/club', club.showAll);
-app.get('/myevent', myevent.populate);
-app.get('/match', match.findMatch);
-app.get('/my', my.allEvents);
+app.get('/club', index.showAll);
+app.get('/myevent', index.populate);
+app.get('/match', index.findMatch);
+app.get('/my', index.allEvents);
 app.get('/project/:name', project.projectInfo);
 app.get('/home', home.gridsystem);
 app.post('/contact', contact.contactnow);
