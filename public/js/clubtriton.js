@@ -94,3 +94,7 @@ function anagramthing(e) {
 	$(this).text(projectTitle);
 
 }
+
+function goBack() {
+    window.history.back()
+}

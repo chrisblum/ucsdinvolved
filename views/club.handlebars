@@ -1,5 +1,5 @@
 <div class="container-fluid">
-<div id="backbutton" style="margin-top:-10px;margin-bottom:10px"><<</div>
+<div onclick="goBack()" id="backbutton" style="margin-top:-10px;margin-bottom:10px"><<</div>
 <div style="height:10px;"></div>
 <div class="container1">
 	<div class="col-xs-12"><h1 style="text-align:left;margin-top:-17px;margin-left:28px;">Clubs</h1></div></div>
@@ -13,7 +13,9 @@
 	<div class="col-xs-12 spacer"></div>
 	<div class="descripdiv"><div class="projectlink"><a href="/project/{{link}}"><h3>{{name}}</h3></a></div>
 	<center><p>{{description}}</p></center></div>
-	</div>
+	</div>{{#events}}
+	<div>{{eventname}} - {{eventtype}} - {{eventdate}} - {{eventtime }} = {{eventlink}}</div>
+	{{/events}}
 		<center><h5>- - - - - - - - - - - -</h5></center>
 
 	{{/each}}

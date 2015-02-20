@@ -16,16 +16,12 @@ var match = require('./routes/match');
 var my = require('./routes/my');
 var project = require('./routes/project');
 var contact = require('./routes/contact');
+var login = require('./routes/login');
+var home = require('./routes/home');
 
 var nodemailer = require('nodemailer');
 // Example route
 // var user = require('./routes/user');
-
-//defining some variables (local to application)
-
-// app.locals.testUsername = 'testing123';
-// app.locals.testPassword = 'testpassword';
-// app.locals.testEmail = 'chris@email.com';
 
 var app = express();
 
@@ -53,7 +49,7 @@ if ('development' == app.get('env')) {
 // Add routes here
 // app.get('/', index.view);
 app.get('/', function(req,res) {
-	res.render('home');
+	res.render('login');
 });
 app.get('/add', add.addFriend);
 app.get('/club', club.showAll);
@@ -61,25 +57,9 @@ app.get('/myevent', myevent.populate);
 app.get('/match', match.findMatch);
 app.get('/my', my.allEvents);
 app.get('/project/:name', project.projectInfo);
-
+app.get('/home', home.gridsystem);
 app.post('/contact', contact.contactnow);
-// app.get('/send',function(req,res){
-// var mailOptions={
-// to : req.query.to,
-// subject : req.query.subject,
-// text : req.query.text
-// }
-// console.log(mailOptions);
-// smtpTransport.sendMail(mailOptions, function(error, response){
-// if(error){
-// console.log(error);
-// res.end("error");
-// }else{
-// console.log("Message sent: " + response.message);
-// res.end("sent");
-// }
-// });
-// });
+
 
 
 // Example route
