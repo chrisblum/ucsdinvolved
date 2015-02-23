@@ -12,6 +12,12 @@ $(document).ready(function() {
 		$("#thirdlevel").show();
 		alert("test");
 	});
+
+	$("body").on("click",".backbutton25",function(){
+		$("#hiding").hide();
+		$("#toplevel").show();
+		alert("bloop");
+	});
 	// $("#secondlev").click(function() {
 	// 	$("#thirdlevel").show();
 	// }
