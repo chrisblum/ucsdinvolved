@@ -27,10 +27,14 @@ function goBack() {
 <body>
 <div class="bg-style">
 
-	<h5>
+<div> 
+	{{{body}}} 
+</div>
+<div>- - - - - -</div>
+<div><h5>
   <a href="#" class="btn btn-sm btn-default navbutton" id="searchnav" data-toggle="modal" data-target="#searchModal">Search</a><a href="#" class="btn btn-sm btn-default navbutton" id="helpnav" data-toggle="modal" data-target="#helpModal">Help</a><a href="#" class="btn btn-sm btn-default navbutton" id="contactnav" data-toggle="modal" data-target="#contactModal">Contact</a><a href="/" class="btn btn-sm btn-primary" id="welcomenav">Login</a>
   </h5>
-
+</div>
 <div class="modal fade" id="contactModal" tabindex="-1" role="dialog" aria-labelledby="largeModal" aria-hidden="true">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
@@ -76,6 +80,7 @@ function goBack() {
     </div>
   </div>
 </div>
+</div>
 
 <div class="modal fade" id="helpModal" tabindex="-1" role="dialog" aria-labelledby="largeModal" aria-hidden="true">
   <div class="modal-dialog modal-lg">
@@ -112,7 +117,7 @@ function goBack() {
 
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-        <h4 class="modal-title" id="myModalLabel">Searching Club Directory...</h4>
+        <h4 class="modal-title" id="myModalLabel">Searching Clubs List . . . </h4>
       </div>
 
       <div class="modal-body">
@@ -122,7 +127,7 @@ function goBack() {
             <input type="text" class="form-control" id="searchinput" name="searchinput" placeholder="Enter your search..." value="">
             </div>
           </div>
-	   
+     
       </div>
 
       <div class="modal-footer">
@@ -133,9 +138,6 @@ function goBack() {
     </div>
   </div>
 </div>
-
-<div> 
-	{{{body}}} 
 </div>
 
 </div>

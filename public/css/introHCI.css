@@ -28,7 +28,7 @@ body {
 .jumbotron {
 	position: relative;
 	background: none;
-  height:130px;
+  height:90px;
 
 }
 
@@ -43,7 +43,7 @@ body {
      bottom: 0;
      right: 0;
      position: absolute;
-     height:130px;
+     height:90px;
 }
 
 .project a {
@@ -109,16 +109,21 @@ body {
 }
 
 
-#smallerjumbo {
-    height:130px;
-    padding-bottom:-50px;
-}
-
 #loginheader {
 /*  background-color:#DBDBDB;*/
   margin-top:-20px;
 
 }
+#username:focus {
+  background:#DCEAF7;
+  color:black;
+}
+
+#userpassword:focus {
+  background:#DCEAF7;
+  color:black;
+}
+
 
 #backbutton {
   position:absolute;
@@ -133,6 +138,26 @@ body {
 
 #backbutton:hover {
   opacity:1.0;
+}
+
+#backbutton1 {
+  position:absolute;
+  margin-top:-37px;
+  font-size:20px;
+  background-color:black;
+  color:white;
+  opacity:0.4;
+  z-index:10;
+
+}
+
+#backbutton1:hover {
+  opacity:1.0;
+}
+
+#BackToTop {
+  color:white;
+  background-color:black;
 }
 
 .img-responsive {  display: block;  height: auto;  max-width: 358px; }
