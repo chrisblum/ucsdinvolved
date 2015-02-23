@@ -124,6 +124,14 @@ body {
   color:black;
 }
 
+#homebutton {
+  font-size:30px;
+  opacity:0.4;
+  z-index:10;
+  color:black;
+
+}
+
 
 #backbutton {
   position:absolute;
@@ -156,8 +164,7 @@ body {
 }
 
 #BackToTop {
-  color:white;
-  background-color:black;
+  color:black;
 }
 
 .img-responsive {  display: block;  height: auto;  max-width: 358px; }
