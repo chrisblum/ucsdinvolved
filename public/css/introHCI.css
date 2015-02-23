@@ -25,6 +25,10 @@ body {
 
 }
 
+.descriptiontext {
+  font-size:11px;
+}
+
 .jumbotron {
 	position: relative;
 	background: none;
@@ -54,7 +58,7 @@ body {
 .container {
  position: relative;
  height: auto;
- width: 100%;
+ width: 900px;
  margin: 0 auto;
 }
 
@@ -165,6 +169,7 @@ body {
 
 #BackToTop {
   color:black;
+  border:1px black;
 }
 
 .img-responsive {  display: block;  height: auto;  max-width: 358px; }
