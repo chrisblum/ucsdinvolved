@@ -4,10 +4,16 @@
 $(document).ready(function() {
 	$("#option1").click(function() {
 		$("#hiding").show();
-	});
-		$("#option2").click(function() {
-		$("#hiding").hide();
+		$("#toplevel").hide();
 	});
 	
+	$("body").on("click",".secondlevclass",function(){
+		$("#hiding").hide();
+		$("#thirdlevel").show();
+		alert("test");
+	});
+	// $("#secondlev").click(function() {
+	// 	$("#thirdlevel").show();
+	// }
 	
 })
