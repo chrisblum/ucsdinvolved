@@ -2,15 +2,21 @@
 
 // Call this function when the page loads (the "ready" event)
 $(document).ready(function() {
-	$("#option1").click(function() {
-		$("#hiding").show();
+	$("#academic").click(function() {
+		$("#academicsubset").show();
 		$("#toplevel").hide();
 	});
 	
-	$("body").on("click",".secondlevclass",function(){
-		$("#hiding").hide();
-		$("#thirdlevel").show();
-		alert("test");
+	$("body").on("click",".academic-science",function(){
+		$("#academicsubset").hide();
+		$("#academic-sciencesubset").show();
+		alert("academic-sciencesubet");
+	});
+
+	$("body").on("click",".academic-eng",function(){
+		$("#academicsubset").hide();
+		$("#academic-engsubset").show();
+		alert("academic-engsubset");
 	});
 
 	$("body").on("click",".backbutton25",function(){
