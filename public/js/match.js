@@ -158,6 +158,100 @@ $(document).ready(function() {
 		$("#toplevel").show();
 	});
 
+		$("body").on("click",".backbutton-to-academicsub",function(){
+		$("#academic-sciencesubset").hide();
+		$("#academicsubset").show();
+	});
+
+		$("body").on("click",".backbutton-to-academicsub",function(){
+		$("#academic-engsubset").hide();
+		$("#academicsubset").show();
+	});
+
+		$("body").on("click",".backbutton-to-culturalsub",function(){
+		$("#cultural-asiasubset").hide();
+		$("#culturalsubset").show();
+	});
+
+		$("body").on("click",".backbutton-to-culturalsub",function(){
+		$("#cultural-africasubset").hide();
+		$("#culturalsubset").show();
+	});
+
+		$("body").on("click",".backbutton-to-culturalsub",function(){
+		$("#cultural-europesubset").hide();
+		$("#culturalsubset").show();
+	});
+
+		$("body").on("click",".backbutton-to-culturalsub",function(){
+		$("#cultural-northamericasubset").hide();
+		$("#culturalsubset").show();
+	});
+
+		$("body").on("click",".backbutton-to-culturalsub",function(){
+		$("#cultural-southamericasubset").hide();
+		$("#culturalsubset").show();
+	});
+
+		$("body").on("click",".backbutton-to-culturalsub",function(){
+		$("#cultural-moresubset").hide();
+		$("#culturalsubset").show();
+	});
+
+		$("body").on("click",".backbutton-to-greeksub",function(){
+		$("#greek-guyssubset").hide();
+		$("#greeksubset").show();
+	});
+
+		$("body").on("click",".backbutton-to-greeksub",function(){
+		$("#greek-girlssubset").hide();
+		$("#greeksubset").show();
+	});
+
+		$("body").on("click",".backbutton-to-professionalsub",function(){
+		$("#professional-premedsubset").hide();
+		$("#professionalsubset").show();
+	});
+
+		$("body").on("click",".backbutton-to-professionalsub",function(){
+		$("#professional-prehealthsubset").hide();
+		$("#professionalsubset").show();
+	});
+
+		$("body").on("click",".backbutton-to-professionalsub",function(){
+		$("#professional-prepharmsubset").hide();
+		$("#professionalsubset").show();
+	});
+
+		$("body").on("click",".backbutton-to-socialsub",function(){
+		$("#social-videogamessubset").hide();
+		$("#socialsubset").show();
+	});
+
+		$("body").on("click",".backbutton-to-socialsub",function(){
+		$("#social-acapellasubset").hide();
+		$("#socialsubset").show();
+	});
+
+		$("body").on("click",".backbutton-to-socialsub",function(){
+		$("#social-carsubset").hide();
+		$("#socialsubset").show();
+	});
+
+		$("body").on("click",".backbutton-to-activesub",function(){
+		$("#active-martialartssubset").hide();
+		$("#activesubset").show();
+	});
+
+		$("body").on("click",".backbutton-to-activesub",function(){
+		$("#active-dancesubset").hide();
+		$("#activesubset").show();
+	});
+
+		$("body").on("click",".backbutton-to-activesub",function(){
+		$("#active-moresubset").hide();
+		$("#activesubset").show();
+	});
 	// $("#secondlev").click(function() {
 	// 	$("#thirdlevel").show();
 	// }
