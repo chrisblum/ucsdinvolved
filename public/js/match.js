@@ -129,11 +129,35 @@ $(document).ready(function() {
 		$("#active-more").show();
 	});
 
-	$("body").on("click",".backbutton25",function(){
-		$("#hiding").hide();
+		$("body").on("click",".backbutton-to-toplevel",function(){
+		$("#academicsubset").hide();
 		$("#toplevel").show();
-		alert("bloop");
 	});
+		$("body").on("click",".backbutton-to-toplevel",function(){
+		$("#culturalsubset").hide();
+		$("#toplevel").show();
+	});
+
+		$("body").on("click",".backbutton-to-toplevel",function(){
+		$("#greeksubset").hide();
+		$("#toplevel").show();
+	});
+
+		$("body").on("click",".backbutton-to-toplevel",function(){
+		$("#professionalsubset").hide();
+		$("#toplevel").show();
+	});
+
+		$("body").on("click",".backbutton-to-toplevel",function(){
+		$("#socialsubset").hide();
+		$("#toplevel").show();
+	});
+
+		$("body").on("click",".backbutton-to-toplevel",function(){
+		$("#activesubset").hide();
+		$("#toplevel").show();
+	});
+
 	// $("#secondlev").click(function() {
 	// 	$("#thirdlevel").show();
 	// }
