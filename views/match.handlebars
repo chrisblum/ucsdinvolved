@@ -13,23 +13,23 @@
 	<div class="col-xs-6">
 	<button id="academic" class="blue-pill">Academic</button></div>
 	<div class="col-xs-6">
-	<button id="option2" class="blue-pill">Cultural</button></div>
+	<button id="cultural" class="blue-pill">Cultural</button></div>
 
 	<hr>
 	<hr>
 
 	<div class="col-xs-6">
-	<button class="blue-pill">Greek</button></div>
+	<button id="greek" class="blue-pill">Greek</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">Professional</button></div>
+	<button id="professional" class="blue-pill">Professional</button></div>
 
 	<hr>
 	<hr>
 
 	<div class="col-xs-6">
-	<button class="blue-pill">Social</button></div>
+	<button id="social" class="blue-pill">Social</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">Active</button></div>
+	<button id="active" class="blue-pill">Active</button></div>
 </div>
 
 
@@ -38,8 +38,60 @@
 	<button id="academic-science" class="blue-pill academic-science">Science</button></div>
 	<div class="col-xs-6">
 	<button class="blue-pill academic-eng">Engineering</button></div>
-
 </div>
+
+<div class="container-fluid clusters" id="culturalsubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill cultural-asia">Asia</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill cultural-africa">Africa</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill cultural-europe">Europe</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill cultural-northamerica">N.America</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill cultural-southamerica">S.America</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill cultural-more">More</button></div>
+</div>
+
+<div class="container-fluid clusters" id="greeksubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill greek-guys">Guys</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill greek-girls">Girls</button></div>
+</div>
+
+<div class="container-fluid clusters" id="professionalsubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill professional-premed">Premed</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill professional-prehealth">Prehealth</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill professional-prepharm">Prepharm</button></div>
+</div>
+
+<div class="container-fluid clusters" id="socialsubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill social-videogames">Video Games</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill social-acapella">Acapella</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill social-car">Car</button></div>
+</div>
+
+<div class="container-fluid clusters" id="activesubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill active-martialarts">Martial Arts</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill active-dance">Dance</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill active-more">More</button></div>
+</div>
+
+
+
+<!-- END OF SUBSETS -->
 
 <div class="container-fluid clusters" id="academic-sciencesubset" style="display:none;">
 	<div class="col-xs-6">
@@ -61,32 +113,128 @@
 
 <div class="container-fluid clusters" id="academic-engsubset" style="display:none;">
 	<div class="col-xs-6">
-	<button id="academic-science" class="blue-pill academic-science">Science</button></div>
+	<button class="blue-pill academic-science">Science</button></div>
 	<div class="col-xs-6">
 	<button class="blue-pill">Engineering</button></div>
-
 </div>
 
-
-
-
-<div class="container-fluid clusters" id="thirdlevel" style="display:none;">
+<div class="container-fluid clusters" id="cultural-asiasubset" style="display:none;">
 	<div class="col-xs-6">
-	<button id="thirdlay" class="blue-pill">Option1</button></div>
+	<button class="blue-pill">ASIA</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">Option2</button></div>
-
-	<hr>
-	<hr>
-	<div class="col-xs-6">
-	<button class="blue-pill">Option3</button></div>
-
-	<div class="col-xs-6">
-	<button class="blue-pill">Option4</button></div>
+	<button class="blue-pill">SUBSET</button></div>
 </div>
 
-<div class="container-fluid clusters" id="clublayer">
-	
+<div class="container-fluid clusters" id="cultural-africasubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill">AFRICA</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill">SUBSET</button></div>
+</div>
+
+<div class="container-fluid clusters" id="cultural-europesubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill">EUROPE</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill">SUBSET</button></div>
+</div>
+
+<div class="container-fluid clusters" id="cultural-northamericasubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill">NORTHAMER</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill">SUBSET</button></div>
+</div>
+
+<div class="container-fluid clusters" id="cultural-southamericasubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill">SOUTHAMER</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill">SUBSET</button></div>
+</div>
+
+<div class="container-fluid clusters" id="cultural-moresubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill">MORE</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill">SUBSET</button></div>
+</div>
+
+<div class="container-fluid clusters" id="greek-guyssubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill">GUYS</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill">SUBSET</button></div>
+</div>
+
+<div class="container-fluid clusters" id="greek-girlssubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill">GIRLS</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill">SUBSET</button></div>
+</div>
+
+<div class="container-fluid clusters" id="professional-premedsubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill">PREMED</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill">SUBSET</button></div>
+</div>
+
+<div class="container-fluid clusters" id="professional-prehealthsubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill">PREHEALTH</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill">SUBSET</button></div>
+</div>
+
+<div class="container-fluid clusters" id="professional-prepharmsubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill">PREPHARM</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill">SUBSET</button></div>
+</div>
+
+<div class="container-fluid clusters" id="social-videogamessubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill">VIDEO GAMES</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill">SUBSET</button></div>
+</div>
+
+<div class="container-fluid clusters" id="social-acapellasubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill">ACAPELLA</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill">SUBSET</button></div>
+</div>
+
+<div class="container-fluid clusters" id="social-carsubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill">CAR</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill">SUBSET</button></div>
+</div>
+
+<div class="container-fluid clusters" id="active-martialartssubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill">MARTIAL ARTS</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill">SUBSET</button></div>
+</div>
+
+<div class="container-fluid clusters" id="active-dancesubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill">DANCE</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill">SUBSET</button></div>
+</div>
+
+<div class="container-fluid clusters" id="active-moresubset" style="display:none;">
+	<div class="col-xs-6">
+	<button class="blue-pill">MORE</button></div>
+	<div class="col-xs-6">
+	<button class="blue-pill">SUBSET</button></div>
 </div>
 
 	<!-- {{#each friends}}
