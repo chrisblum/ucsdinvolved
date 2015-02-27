@@ -111,6 +111,8 @@ $(document).ready(function() {
 
 		$("body").on("click",".social-car",function(){
 		$("#socialsubset").hide();
+		$("#chooseone").hide();
+		$("#chooseclub").show();
 		$("#social-carsubset").show();
 	});
 
