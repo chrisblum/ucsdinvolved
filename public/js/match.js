@@ -126,7 +126,7 @@ $(document).ready(function() {
 
 		$("body").on("click",".active-more",function(){
 		$("#activesubset").hide();
-		$("#active-more").show();
+		$("#active-moresubset").show();
 	});
 
 		$("body").on("click",".backbutton-to-toplevel",function(){

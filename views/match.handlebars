@@ -274,8 +274,7 @@
 </div>
 
 <div class="container-fluid clusters" id="active-moresubset" style="display:none;">
-	<div class="col-xs-6">
-	<button class="blue-pill">MORE</button></div>
+	{{#each friends}}<div class="col-xs-6">{{name}}</div>{{/each}}
 	<div class="col-xs-6">
 	<button class="blue-pill">SUBSET</button></div>
 	<div class="col-xs-6">
