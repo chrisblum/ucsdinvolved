@@ -198,96 +198,134 @@ $(document).ready(function() {
 
 		$("body").on("click",".backbutton-to-academicsub",function(){
 		$("#academic-sciencesubset").hide();
+		$("#chooseclub").hide();
+		$("#chooseone").show();
 		$("#academicsubset").show();
 	});
 
 		$("body").on("click",".backbutton-to-academicsub",function(){
 		$("#academic-engsubset").hide();
+		$("#chooseclub").hide();
+		$("#chooseone").show();
 		$("#academicsubset").show();
 	});
 
 		$("body").on("click",".backbutton-to-culturalsub",function(){
 		$("#cultural-asiasubset").hide();
+		$("#chooseclub").hide();
+		$("#chooseone").show();
 		$("#culturalsubset").show();
 	});
 
 		$("body").on("click",".backbutton-to-culturalsub",function(){
 		$("#cultural-africasubset").hide();
+		$("#chooseclub").hide();
+		$("#chooseone").show();
 		$("#culturalsubset").show();
 	});
 
 		$("body").on("click",".backbutton-to-culturalsub",function(){
 		$("#cultural-europesubset").hide();
+		$("#chooseclub").hide();
+		$("#chooseone").show();
 		$("#culturalsubset").show();
 	});
 
 		$("body").on("click",".backbutton-to-culturalsub",function(){
 		$("#cultural-northamericasubset").hide();
+		$("#chooseclub").hide();
+		$("#chooseone").show();
 		$("#culturalsubset").show();
 	});
 
 		$("body").on("click",".backbutton-to-culturalsub",function(){
 		$("#cultural-southamericasubset").hide();
+		$("#chooseclub").hide();
+		$("#chooseone").show();
 		$("#culturalsubset").show();
 	});
 
 		$("body").on("click",".backbutton-to-culturalsub",function(){
 		$("#cultural-moresubset").hide();
+		$("#chooseclub").hide();
+		$("#chooseone").show();
 		$("#culturalsubset").show();
 	});
 
 		$("body").on("click",".backbutton-to-greeksub",function(){
 		$("#greek-guyssubset").hide();
+		$("#chooseclub").hide();
+		$("#chooseone").show();
 		$("#greeksubset").show();
 	});
 
 		$("body").on("click",".backbutton-to-greeksub",function(){
 		$("#greek-girlssubset").hide();
+		$("#chooseclub").hide();
+		$("#chooseone").show();
 		$("#greeksubset").show();
 	});
 
 		$("body").on("click",".backbutton-to-professionalsub",function(){
 		$("#professional-premedsubset").hide();
+		$("#chooseclub").hide();
+		$("#chooseone").show();
 		$("#professionalsubset").show();
 	});
 
 		$("body").on("click",".backbutton-to-professionalsub",function(){
 		$("#professional-prehealthsubset").hide();
+		$("#chooseclub").hide();
+		$("#chooseone").show();
 		$("#professionalsubset").show();
 	});
 
 		$("body").on("click",".backbutton-to-professionalsub",function(){
 		$("#professional-prepharmsubset").hide();
+		$("#chooseclub").hide();
+		$("#chooseone").show();
 		$("#professionalsubset").show();
 	});
 
 		$("body").on("click",".backbutton-to-socialsub",function(){
 		$("#social-videogamessubset").hide();
+		$("#chooseclub").hide();
+		$("#chooseone").show();
 		$("#socialsubset").show();
 	});
 
 		$("body").on("click",".backbutton-to-socialsub",function(){
 		$("#social-acapellasubset").hide();
+		$("#chooseclub").hide();
+		$("#chooseone").show();
 		$("#socialsubset").show();
 	});
 
 		$("body").on("click",".backbutton-to-socialsub",function(){
 		$("#social-carsubset").hide();
+		$("#chooseclub").hide();
+		$("#chooseone").show();
 		$("#socialsubset").show();
 	});
 
 		$("body").on("click",".backbutton-to-activesub",function(){
 		$("#active-martialartssubset").hide();
+		$("#chooseclub").hide();
+		$("#chooseone").show();
 		$("#activesubset").show();
 	});
 
 		$("body").on("click",".backbutton-to-activesub",function(){
 		$("#active-dancesubset").hide();
+		$("#chooseclub").hide();
+		$("#chooseone").show();
 		$("#activesubset").show();
 	});
 
 		$("body").on("click",".backbutton-to-activesub",function(){
 		$("#active-moresubset").hide();
+		$("#chooseclub").hide();
+		$("#chooseone").show();
 		$("#activesubset").show();
 	});
 	// $("#secondlev").click(function() {
