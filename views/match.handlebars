@@ -29,11 +29,17 @@
 
 
 <div class="container-fluid clusters" id="academicsubset" style="display:none;">
-	<div class="col-xs-6">
+	<div class="col-xs-12">
 	<button id="academic-science" class="blue-pill academic-science">Science</button></div>
-	<div class="col-xs-6">
+
+	<div class="col-xs-12" style="height:15px;"></div>
+
+	<div class="col-xs-12">
 	<button class="blue-pill academic-eng">Engineering</button></div>
-	<div class="col-xs-6">
+
+	<div class="col-xs-12" style="height:30px;"></div>
+
+	<div class="col-xs-12">
 	<button class="blue-pill backbutton-to-toplevel">Back</button></div>
 </div>
 
@@ -42,24 +48,39 @@
 	<button class="blue-pill cultural-asia">Asia</button></div>
 	<div class="col-xs-6">
 	<button class="blue-pill cultural-africa">Africa</button></div>
+
+	<div class="col-xs-12" style="height:15px;"></div>
+
 	<div class="col-xs-6">
 	<button class="blue-pill cultural-europe">Europe</button></div>
 	<div class="col-xs-6">
 	<button class="blue-pill cultural-northamerica">N.America</button></div>
+
+	<div class="col-xs-12" style="height:15px;"></div>
+
 	<div class="col-xs-6">
 	<button class="blue-pill cultural-southamerica">S.America</button></div>
 	<div class="col-xs-6">
 	<button class="blue-pill cultural-more">More</button></div>
+
+	<div class="col-xs-12" style="height:30px;"></div>
+
 	<div class="col-xs-6">
 	<button class="blue-pill backbutton-to-toplevel">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="greeksubset" style="display:none;">
-	<div class="col-xs-6">
+	<div class="col-xs-12">
 	<button class="blue-pill greek-guys">Guys</button></div>
-	<div class="col-xs-6">
+
+	<div class="col-xs-12" style="height:15px;"></div>
+
+	<div class="col-xs-12">
 	<button class="blue-pill greek-girls">Girls</button></div>
-	<div class="col-xs-6">
+
+	<div class="col-xs-12" style="height:30px;"></div>
+
+	<div class="col-xs-12">
 	<button class="blue-pill backbutton-to-toplevel">Back</button></div>
 </div>
 
@@ -68,9 +89,15 @@
 	<button class="blue-pill professional-premed">Premed</button></div>
 	<div class="col-xs-6">
 	<button class="blue-pill professional-prehealth">Prehealth</button></div>
+
+	<div class="col-xs-12" style="height:15px;"></div>
+
 	<div class="col-xs-6">
 	<button class="blue-pill professional-prepharm">Prepharm</button></div>
-	<div class="col-xs-6">
+
+	<div class="col-xs-12" style="height:30px;"></div>
+
+	<div class="col-xs-12">
 	<button class="blue-pill backbutton-to-toplevel">Back</button></div>
 </div>
 
@@ -79,9 +106,15 @@
 	<button class="blue-pill social-videogames">Video Games</button></div>
 	<div class="col-xs-6">
 	<button class="blue-pill social-acapella">Acapella</button></div>
+
+	<div class="col-xs-12" style="height:15px;"></div>
+
 	<div class="col-xs-6">
 	<button class="blue-pill social-car">Car</button></div>
-	<div class="col-xs-6">
+
+	<div class="col-xs-12" style="height:30px;"></div>
+
+	<div class="col-xs-12">
 	<button class="blue-pill backbutton-to-toplevel">Back</button></div>
 </div>
 
@@ -90,9 +123,15 @@
 	<button class="blue-pill active-martialarts">Martial Arts</button></div>
 	<div class="col-xs-6">
 	<button class="blue-pill active-dance">Dance</button></div>
+
+	<div class="col-xs-12" style="height:15px;"></div>
+
 	<div class="col-xs-6">
 	<button class="blue-pill active-more">More</button></div>
-	<div class="col-xs-6">
+
+	<div class="col-xs-12" style="height:30px;"></div>
+
+	<div class="col-xs-12">
 	<button class="blue-pill backbutton-to-toplevel">Back</button></div>
 </div>
 
@@ -106,16 +145,16 @@
 	<div class="col-xs-6">
 	<button class="blue-pill">Subset</button></div>
 
-	<hr>
-	<hr>
-	<hr>
+	<div class="col-xs-12" style="height:15px;"></div>
 
 	<div class="col-xs-6">
 	<button class="blue-pill">rdasfsafas</button></div>
 	<div class="col-xs-6">
 	<button class="blue-pill">afasfafs</button></div>
 
-	<div class="col-xs-6">
+	<div class="col-xs-12" style="height:30px;"></div>
+
+	<div class="col-xs-12">
 	<button class="blue-pill backbutton-to-academicsub">Back</button></div>
 
 
@@ -126,7 +165,7 @@
 	<button class="blue-pill">Eng</button></div>
 	<div class="col-xs-6">
 	<button class="blue-pill">Subset</button></div>
-	<div class="col-xs-6">
+	<div class="col-xs-12">
 	<button class="blue-pill backbutton-to-academicsub">Back</button></div>
 </div>
 
@@ -275,7 +314,11 @@
 </div>
 
 <div class="container-fluid clusters" id="active-moresubset" style="display:none;">
-	{{#each friends}}<div class="col-xs-6">{{name}}</div>{{/each}}
+	<center><div class="col-xs-12"><h2>{{friends.1.name}}</h2></div></center>
+	<button class="col-xs-12 btn btn-default">JOIN</button>
+
+	<hr></hr>
+
 	<div class="col-xs-6">
 	<button class="blue-pill">SUBSET</button></div>
 	<div class="col-xs-6">
