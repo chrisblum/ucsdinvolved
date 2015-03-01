@@ -809,5 +809,26 @@
 			"tag2": "northamerican",
 			"tag3": "weekly"
 		}
+	],
+
+	"myfriends": [
+
+	{
+			"name": "Black Student Union",
+			"description": "To inspire, enlighten, and uplift the Black/African American community on the campus of UCSD through academic, social, and cultural programming. The goal of the Black Student Union is to create successful Black/African American student leaders. ",
+			"imageURL": "#",
+			"website": "#",
+			"president": "Jazzalyn Livingston",
+			"vp": "Victoria Gichohi",
+			"idnum": 54,
+			"link": "bsu",
+			"email": "ucsdblackstudentunion@gmail.com",
+			"tag1": "cultural",
+			"tag2": "northamerican",
+			"tag3": "weekly"
+		}
+
 	]
+
+
 }
