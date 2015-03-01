@@ -2,6 +2,12 @@
 
 // Call this function when the page loads (the "ready" event)
 $(document).ready(function() {
+		$(".join").click(function(e){
+			e.preventDefault();
+
+			alert("CLUB JOINED!");
+		});
+		
 		$("#academic").click(function() {
 		$("#academicsubset").show();
 		$("#toplevel").hide();
