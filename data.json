@@ -9,7 +9,7 @@
 			"vp": "Nathan Thai",
 			"idnum": 1,
 			"link": "acamazing",
-			"email": "acamazingemail",
+			"email": "acamazing@ucsd.edu",
 			"tag1": "social",
 			"tag2": "acapella",
 			"tag3": "weekly"
@@ -24,9 +24,9 @@
 			"vp": "Sarah Diaz/ Amy Chung",
 			"idnum": 2,
 			"link": "aiche",
-			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
+			"email": "aiche@ucsd.edu",
+			"tag1": "academic",
+			"tag2": "engineering",
 			"tag3": "weekly"
 		},
 
@@ -39,14 +39,14 @@
 			"vp": "Althea Escalante",
 			"idnum": 3,
 			"link": "anthropology",
-			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
+			"email": "smace@ucsd.edu",
+			"tag1": "social",
+			"tag2": "more",
 			"tag3": "weekly"
 		},
 
 		{
-			"name": "Boxing Club at UCSD",
+			"name": "Boxing at UCSD",
 			"description": "To promote awareness and appreciation of the sport of boxing as well as supporting those who seek to compete at the intercollegiate league.",
 			"imageURL": "http://boxingatucsd.weebly.com/uploads/4/5/7/0/45700963/7985088_orig.jpg",
 			"website": "http://boxingatucsd.weebly.com",
@@ -54,7 +54,7 @@
 			"vp": "Nathaneal Malazo",
 			"idnum": 4,
 			"link": "boxing",
-			"email": "taekwondo@ucsd.edu",
+			"email": "ucsdboxing@gmail.com",
 			"tag1": "martial arts",
 			"tag2": "active",
 			"tag3": "weekly"
@@ -65,13 +65,13 @@
 			"description": "Circle K International (CKI) is an organization at the collegiate and university levels. CKI promotes community service, leadership development, and fellowship and frienship.",
 			"imageURL": "https://c1.staticflickr.com/9/8531/8505099001_c0b1d24b85_z.jpg",
 			"website" : "http://ucsdcki.org",
-			"president": "Joseph Le",
-			"vp": "Emilie Shen",
+			"president": "Jaime Estepa",
+			"vp": "Taryn Conyers",
 			"idnum": 5,
 			"link": "circlek",
-			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
+			"email": "vpa@ucsdcki.org",
+			"tag1": "social",
+			"tag2": "more",
 			"tag3": "weekly"
 		},
 
@@ -84,22 +84,22 @@
 			"vp": "Wednesday Bushong",
 			"idnum": 6,
 			"link": "cssa",
-			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
+			"email": "cogsci-sa@ucsd.edu",
+			"tag1": "academic",
+			"tag2": "science",
 			"tag3": "weekly"
 		},
 
 		{
 			"name": "Bachata Club",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
-			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
-			"website": "http://cssa.ucsd.edu/",
-			"president": "Nicholas Dudeck",
-			"vp": "Wednesday Bushong",
+			"description": "The Bachata Club at UC San Diego is a non-profit organization offering Bachata dance instruction to the student population at large (undergraduate, graduate, part-time, full-time), faculty, staff, and alumni. We hope to create a fun social group that will foster a life-long appreciation for dancing in general.",
+			"imageURL": "#",
+			"website": "#",
+			"president": "Edith Gastelum",
+			"vp": "Silvia Rodriguez",
 			"idnum": 7,
-			"link": "cssa",
-			"email": "taekwondo@ucsd.edu",
+			"link": "bachata",
+			"email": "edgastel@ucsd.edu ",
 			"tag1": "active",
 			"tag2": "dance",
 			"tag3": "weekly"
@@ -107,14 +107,14 @@
 
 		{
 			"name": "Salsa Club",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
-			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
-			"website": "http://cssa.ucsd.edu/",
-			"president": "Nicholas Dudeck",
-			"vp": "Wednesday Bushong",
+			"description": "The Salsa Club at UC San Diego is a non-profit organization offering Salsa dance instruction to the student population at large (undergraduate, graduate, part-time, full-time), faculty, staff, and alumni. We hope to create a fun social group that will foster a life-long appreciation for dancing in general.",
+			"imageURL": "#",
+			"website": "#",
+			"president": "Edith Gastelum",
+			"vp": "Andy Ferruzca",
 			"idnum": 8,
-			"link": "cssa",
-			"email": "taekwondo@ucsd.edu",
+			"link": "salsa",
+			"email": "edgastel@ucsd.edu",
 			"tag1": "active",
 			"tag2": "dance",
 			"tag3": "weekly"
@@ -122,7 +122,7 @@
 
 		{
 			"name": "Swing Club",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -137,7 +137,7 @@
 
 		{
 			"name": "United Korean Athletes Association",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -152,7 +152,7 @@
 
 		{
 			"name": "Wrestling Club",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -167,7 +167,7 @@
 
 		{
 			"name": "Strides Running Club",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -182,7 +182,7 @@
 
 		{
 			"name": "Triton Gaming",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -197,7 +197,7 @@
 
 		{
 			"name": "Triton Dota",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -212,7 +212,7 @@
 
 		{
 			"name": "Triton Starcraft",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -227,7 +227,7 @@
 
 		{
 			"name": "League of Tritons",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -242,7 +242,7 @@
 
 		{
 			"name": "Tritones",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -257,7 +257,7 @@
 
 		{
 			"name": "Treble Singers",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -272,7 +272,7 @@
 
 		{
 			"name": "Imports@UCSD",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -287,7 +287,7 @@
 
 		{
 			"name": "Graduate Women in Science and Engineering",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -302,7 +302,7 @@
 
 		{
 			"name": "Psi Chi",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -317,7 +317,7 @@
 
 		{
 			"name": "Society of Physics Students",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -332,7 +332,7 @@
 
 		{
 			"name": "Nanoengineering and Tech Society",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -347,7 +347,7 @@
 
 		{
 			"name": "Tau Beta Pi",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -362,7 +362,7 @@
 
 		{
 			"name": "Premedical APAMSA",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -377,7 +377,7 @@
 
 		{
 			"name": "American Medical Student Association",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -392,7 +392,7 @@
 
 		{
 			"name": "Health and Medical Profession Preparation",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -407,7 +407,7 @@
 
 		{
 			"name": "International Health Collective",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -422,7 +422,7 @@
 
 		{
 			"name": "Prepharmacy Society",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -437,7 +437,7 @@
 
 		{
 			"name": "American Pharmacists Association",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -452,7 +452,7 @@
 
 		{
 			"name": "Sigma Omicron Pi",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -467,7 +467,7 @@
 
 		{
 			"name": "KZPHI",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -482,7 +482,7 @@
 
 		{
 			"name": "KKG",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -497,7 +497,7 @@
 
 		{
 			"name": "Kappa Alpha Theta",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -512,7 +512,7 @@
 
 		{
 			"name": "Delta Gamma",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -527,7 +527,7 @@
 
 		{
 			"name": "Pi Alpha Phi",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -542,7 +542,7 @@
 
 		{
 			"name": "Psi Chi Omega",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -557,7 +557,7 @@
 
 		{
 			"name": "SAE",
-			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"description": "",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
 			"president": "Nicholas Dudeck",
@@ -572,7 +572,7 @@
 
 		{
 			"name": "Tae Kwon Do Club",
-			"description": "The purpose of this student organization is to create a community where UCSD students can come together to share a mutual interest in and practice the art of Olympic Style Tae Kwon Do in a fun and safe manner, and to spread awareness of the art in an atmosphere that values and stresses resolve, diligence and above all respect. ",
+			"description": "",
 			"imageURL": "#",
 			"website": "http://taekwondo.ucsd.edu/",
 			"president": "Jeannie Toek",
@@ -602,7 +602,7 @@
 
 		{
 			"name": "Sigma Nu",
-			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"description": "",
 			"imageURL": "#",
 			"website": "#",
 			"president": "Bryce Oishi",
@@ -617,7 +617,7 @@
 
 		{
 			"name": "Tau Kappa Epsilon",
-			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"description": "",
 			"imageURL": "#",
 			"website": "#",
 			"president": "Bryce Oishi",
@@ -632,7 +632,7 @@
 
 		{
 			"name": "PIKE",
-			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"description": "",
 			"imageURL": "#",
 			"website": "#",
 			"president": "Bryce Oishi",
@@ -647,7 +647,7 @@
 
 		{
 			"name": "Afghan Student Union",
-			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"description": "",
 			"imageURL": "#",
 			"website": "#",
 			"president": "Bryce Oishi",
@@ -662,7 +662,7 @@
 
 		{
 			"name": "Chinese Union",
-			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"description": "",
 			"imageURL": "#",
 			"website": "#",
 			"president": "Bryce Oishi",
@@ -677,7 +677,7 @@
 
 		{
 			"name": "Cambodian Student Association",
-			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"description": "",
 			"imageURL": "#",
 			"website": "#",
 			"president": "Bryce Oishi",
@@ -692,7 +692,7 @@
 
 		{
 			"name": "African Student Association",
-			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"description": "",
 			"imageURL": "#",
 			"website": "#",
 			"president": "Bryce Oishi",
@@ -707,7 +707,7 @@
 
 		{
 			"name": "French Club",
-			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"description": "",
 			"imageURL": "#",
 			"website": "#",
 			"president": "Bryce Oishi",
@@ -722,7 +722,7 @@
 
 		{
 			"name": "Hermanas Unidas",
-			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"description": "",
 			"imageURL": "#",
 			"website": "#",
 			"president": "Bryce Oishi",
@@ -737,7 +737,7 @@
 
 		{
 			"name": "Raza Graduate",
-			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"description": "",
 			"imageURL": "#",
 			"website": "#",
 			"president": "Bryce Oishi",
@@ -752,7 +752,7 @@
 
 		{
 			"name": "Brazilian Student Association",
-			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"description": "",
 			"imageURL": "#",
 			"website": "#",
 			"president": "Bryce Oishi",
@@ -767,7 +767,7 @@
 
 		{
 			"name": "UNITED",
-			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"description": "",
 			"imageURL": "#",
 			"website": "#",
 			"president": "Bryce Oishi",
@@ -782,7 +782,7 @@
 
 		{
 			"name": "Youth Cultural Enrichment",
-			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"description": "",
 			"imageURL": "#",
 			"website": "#",
 			"president": "Bryce Oishi",
