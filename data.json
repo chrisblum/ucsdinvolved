@@ -9,9 +9,10 @@
 			"vp": "Nathan Thai",
 			"idnum": 1,
 			"link": "acamazing",
-			"tag1": "boom",
-			"tag2": "shaka",
-			"tag3": "laka"
+			"email": "acamazingemail",
+			"tag1": "social",
+			"tag2": "acapella",
+			"tag3": "weekly"
 		},
 
 		{
@@ -90,7 +91,7 @@
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Bachata Club",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -99,13 +100,13 @@
 			"idnum": 7,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
+			"tag1": "active",
+			"tag2": "dance",
 			"tag3": "weekly"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Salsa Club",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -114,13 +115,13 @@
 			"idnum": 8,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
+			"tag1": "active",
+			"tag2": "dance",
 			"tag3": "weekly"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Swing Club",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -129,13 +130,13 @@
 			"idnum": 9,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
+			"tag1": "active",
+			"tag2": "dance",
 			"tag3": "weekly"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "United Korean Athletes Association",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -144,13 +145,13 @@
 			"idnum": 10,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
-			"tag3": "weekly"
+			"tag1": "active",
+			"tag2": "more",
+			"tag3": "athletes"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Wrestling Club",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -159,13 +160,13 @@
 			"idnum":11,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
-			"tag3": "weekly"
+			"tag1": "active",
+			"tag2": "more",
+			"tag3": "wrestling"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Strides Running Club",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -174,13 +175,13 @@
 			"idnum": 12,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
-			"tag3": "weekly"
+			"tag1": "active",
+			"tag2": "more",
+			"tag3": "running"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Triton Gaming",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -189,13 +190,13 @@
 			"idnum": 13,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
+			"tag1": "social",
+			"tag2": "videogames",
 			"tag3": "weekly"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Triton Dota",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -204,13 +205,13 @@
 			"idnum": 14,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
-			"tag3": "weekly"
+			"tag1": "social",
+			"tag2": "videogames",
+			"tag3": "daily"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Triton Starcraft",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -219,13 +220,13 @@
 			"idnum": 15,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
-			"tag3": "weekly"
+			"tag1": "social",
+			"tag2": "videogames",
+			"tag3": "daily"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "League of Tritons",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -234,13 +235,13 @@
 			"idnum": 16,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
-			"tag3": "weekly"
+			"tag1": "social",
+			"tag2": "videogames",
+			"tag3": "daily"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Tritones",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -249,13 +250,13 @@
 			"idnum": 17,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
+			"tag1": "social",
+			"tag2": "acapella",
 			"tag3": "weekly"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Treble Singers",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -264,13 +265,13 @@
 			"idnum": 18,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
+			"tag1": "social",
+			"tag2": "acapella",
 			"tag3": "weekly"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Imports@UCSD",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -279,13 +280,13 @@
 			"idnum": 19,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
+			"tag1": "social",
+			"tag2": "car",
 			"tag3": "weekly"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Graduate Women in Science and Engineering",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -294,13 +295,13 @@
 			"idnum": 20,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
-			"tag3": "weekly"
+			"tag1": "academic",
+			"tag2": "science",
+			"tag3": "engineering"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Psi Chi",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -309,13 +310,13 @@
 			"idnum": 21,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
-			"tag3": "weekly"
+			"tag1": "academic",
+			"tag2": "science",
+			"tag3": "fraternity"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Society of Physics Students",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -324,13 +325,13 @@
 			"idnum": 22,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
+			"tag1": "academic",
+			"tag2": "science",
 			"tag3": "weekly"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Nanoengineering and Tech Society",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -339,13 +340,13 @@
 			"idnum": 23,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
+			"tag1": "academic",
+			"tag2": "engineering",
 			"tag3": "weekly"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Tau Beta Pi",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -354,13 +355,13 @@
 			"idnum": 24,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
-			"tag3": "weekly"
+			"tag1": "academic",
+			"tag2": "engineering",
+			"tag3": "fraternity"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Premedical APAMSA",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -369,13 +370,13 @@
 			"idnum": 25,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
+			"tag1": "professional",
+			"tag2": "premedical",
 			"tag3": "weekly"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "American Medical Student Association",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -384,13 +385,13 @@
 			"idnum": 26,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
+			"tag1": "professional",
+			"tag2": "premedical",
 			"tag3": "weekly"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Health and Medical Profession Preparation",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -399,13 +400,13 @@
 			"idnum": 27,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
+			"tag1": "professional",
+			"tag2": "prehealth",
 			"tag3": "weekly"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "International Health Collective",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -414,13 +415,13 @@
 			"idnum": 28,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
+			"tag1": "professional",
+			"tag2": "prehealth",
 			"tag3": "weekly"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Prepharmacy Society",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -429,13 +430,13 @@
 			"idnum": 29,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
+			"tag1": "professional",
+			"tag2": "prepharmacy",
 			"tag3": "weekly"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "American Pharmacists Association",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -444,13 +445,13 @@
 			"idnum": 30,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
+			"tag1": "professional",
+			"tag2": "prepharmacy",
 			"tag3": "weekly"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Sigma Omicron Pi",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -459,13 +460,13 @@
 			"idnum": 31,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
-			"tag3": "weekly"
+			"tag1": "greek",
+			"tag2": "mcg",
+			"tag3": "sorority"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "KZPHI",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -474,13 +475,13 @@
 			"idnum": 32,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
-			"tag3": "weekly"
+			"tag1": "greek",
+			"tag2": "mcg",
+			"tag3": "sorority"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "KKG",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -489,13 +490,13 @@
 			"idnum": 33,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
-			"tag3": "weekly"
+			"tag1": "greek",
+			"tag2": "panhellenic",
+			"tag3": "sorority"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Kappa Alpha Theta",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -504,13 +505,13 @@
 			"idnum": 34,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
-			"tag3": "weekly"
+			"tag1": "greek",
+			"tag2": "panhellenic",
+			"tag3": "sorority"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Delta Gamma",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -519,13 +520,13 @@
 			"idnum": 35,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
-			"tag3": "weekly"
+			"tag1": "greek",
+			"tag2": "panhellenic",
+			"tag3": "sorority"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Pi Alpha Phi",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -534,13 +535,13 @@
 			"idnum": 36,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
-			"tag3": "weekly"
+			"tag1": "greek",
+			"tag2": "mcg",
+			"tag3": "fraternity"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "Psi Chi Omega",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -549,13 +550,13 @@
 			"idnum": 37,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
-			"tag3": "weekly"
+			"tag1": "greek",
+			"tag2": "mcg",
+			"tag3": "fraternity"
 		},
 
 		{
-			"name": "#Cognitive Science Student Association",
+			"name": "SAE",
 			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
 			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
 			"website": "http://cssa.ucsd.edu/",
@@ -564,9 +565,9 @@
 			"idnum": 38,
 			"link": "cssa",
 			"email": "taekwondo@ucsd.edu",
-			"tag1": "martial arts",
-			"tag2": "active",
-			"tag3": "weekly"
+			"tag1": "greek",
+			"tag2": "ifc",
+			"tag3": "fraternity"
 		},
 
 		{
@@ -597,6 +598,201 @@
 			"tag1": "boom",
 			"tag2": "shaka",
 			"tag3": "laka"
+		},
+
+		{
+			"name": "Sigma Nu",
+			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"imageURL": "#",
+			"website": "#",
+			"president": "Bryce Oishi",
+			"vp": "Dean Lam",
+			"idnum": 41,
+			"link": "judo",
+			"email": "ucsdjudo@gmail.com",
+			"tag1": "greek",
+			"tag2": "ifc",
+			"tag3": "fraternity"
+		},
+
+		{
+			"name": "Tau Kappa Epsilon",
+			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"imageURL": "#",
+			"website": "#",
+			"president": "Bryce Oishi",
+			"vp": "Dean Lam",
+			"idnum": 42,
+			"link": "judo",
+			"email": "ucsdjudo@gmail.com",
+			"tag1": "greek",
+			"tag2": "ifc",
+			"tag3": "fraternity"
+		},
+
+		{
+			"name": "PIKE",
+			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"imageURL": "#",
+			"website": "#",
+			"president": "Bryce Oishi",
+			"vp": "Dean Lam",
+			"idnum": 43,
+			"link": "judo",
+			"email": "ucsdjudo@gmail.com",
+			"tag1": "greek",
+			"tag2": "ifc",
+			"tag3": "fraternity"
+		},
+
+		{
+			"name": "Afghan Student Union",
+			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"imageURL": "#",
+			"website": "#",
+			"president": "Bryce Oishi",
+			"vp": "Dean Lam",
+			"idnum": 44,
+			"link": "judo",
+			"email": "ucsdjudo@gmail.com",
+			"tag1": "cultural",
+			"tag2": "asia",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Chinese Union",
+			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"imageURL": "#",
+			"website": "#",
+			"president": "Bryce Oishi",
+			"vp": "Dean Lam",
+			"idnum": 45,
+			"link": "judo",
+			"email": "ucsdjudo@gmail.com",
+			"tag1": "cultural",
+			"tag2": "asia",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Cambodian Student Association",
+			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"imageURL": "#",
+			"website": "#",
+			"president": "Bryce Oishi",
+			"vp": "Dean Lam",
+			"idnum": 46,
+			"link": "judo",
+			"email": "ucsdjudo@gmail.com",
+			"tag1": "cultural",
+			"tag2": "asia",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "African Student Association",
+			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"imageURL": "#",
+			"website": "#",
+			"president": "Bryce Oishi",
+			"vp": "Dean Lam",
+			"idnum": 47,
+			"link": "judo",
+			"email": "ucsdjudo@gmail.com",
+			"tag1": "cultural",
+			"tag2": "african",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "French Club",
+			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"imageURL": "#",
+			"website": "#",
+			"president": "Bryce Oishi",
+			"vp": "Dean Lam",
+			"idnum": 48,
+			"link": "judo",
+			"email": "ucsdjudo@gmail.com",
+			"tag1": "cultural",
+			"tag2": "europe",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Hermanas Unidas",
+			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"imageURL": "#",
+			"website": "#",
+			"president": "Bryce Oishi",
+			"vp": "Dean Lam",
+			"idnum": 49,
+			"link": "judo",
+			"email": "ucsdjudo@gmail.com",
+			"tag1": "cultural",
+			"tag2": "southamerica",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Raza Graduate",
+			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"imageURL": "#",
+			"website": "#",
+			"president": "Bryce Oishi",
+			"vp": "Dean Lam",
+			"idnum": 50,
+			"link": "judo",
+			"email": "ucsdjudo@gmail.com",
+			"tag1": "cultural",
+			"tag2": "southamerica",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Brazilian Student Association",
+			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"imageURL": "#",
+			"website": "#",
+			"president": "Bryce Oishi",
+			"vp": "Dean Lam",
+			"idnum": 51,
+			"link": "judo",
+			"email": "ucsdjudo@gmail.com",
+			"tag1": "cultural",
+			"tag2": "southamerica",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "UNITED",
+			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"imageURL": "#",
+			"website": "#",
+			"president": "Bryce Oishi",
+			"vp": "Dean Lam",
+			"idnum": 52,
+			"link": "judo",
+			"email": "ucsdjudo@gmail.com",
+			"tag1": "cultural",
+			"tag2": "more",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Youth Cultural Enrichment",
+			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"imageURL": "#",
+			"website": "#",
+			"president": "Bryce Oishi",
+			"vp": "Dean Lam",
+			"idnum": 53,
+			"link": "judo",
+			"email": "ucsdjudo@gmail.com",
+			"tag1": "cultural",
+			"tag2": "more",
+			"tag3": "weekly"
 		}
 	]
 }
