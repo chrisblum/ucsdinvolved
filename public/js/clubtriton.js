@@ -37,7 +37,6 @@ function initializePage() {
 // });
 //     });
 
-}
 function getData(e) {
 	$.get("../../data.json", callbackFn);
 	console.log("working");

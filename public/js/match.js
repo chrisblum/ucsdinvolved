@@ -5,9 +5,10 @@ $(document).ready(function() {
 		$(".join").click(function(e){
 			e.preventDefault();
 
-			alert("CLUB JOINED!");
+			var name = $(this).attr("id");
+			alert(name + " added!");
 		});
-		
+
 		$("#academic").click(function() {
 		$("#academicsubset").show();
 		$("#toplevel").hide();
