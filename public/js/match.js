@@ -8,10 +8,10 @@ $(document).ready(function() {
 			e.preventDefault();
 
 			var name = $(this).attr("id");
-			var name2 = $(this).prop("id");
+			var name2 = $(this).closest('div').attr("name");
 			var description = $(this).closest('div').attr("description");
 			console.log(description);
-			alert(name + " added!");
+			alert(name2 + " added!");
 			var newEntry = { "name": name, "description": description};
 			console.log(newEntry);
 
