@@ -319,15 +319,40 @@
 </div>
 
 <div class="container-fluid clusters" id="active-moresubset" style="display:none;">
-	<center><div class="col-xs-12"><h2>{{friends.1.name}}</h2></div></center>
-	<button class="col-xs-12 btn btn-default">JOIN</button>
 
-	<hr></hr>
+	<div class="container1" id="{{friends.1.link}}" name="{{friends.1.name}}" description="{{friends.1.description}}">
+	<div class="col-xs-12">
+	<center><img src="{{friends.1.imageURL}}" class="img-responsive img-rounded"/></center></div>
 
-	<div class="col-xs-6">
-	<button class="blue-pill">SUBSET</button></div>
-	<div class="col-xs-6">
-	<button class="blue-pill backbutton-to-activesub">Back</button></div>
+	<div class="col-xs-12 spacer"></div>
+
+	<div class="descripdiv" id="{{friends.1.name}}">
+		<center>
+		<div class="clubnamestext">
+			<h4>{{friends.1.name}}</h4>
+		</div>
+
+	<div class="btn-group" id="{{friends.1.name}}">
+  <a class="btn btn-default" style="font-size:10px" href="#"><i class="fa fa-tags"></i></a>
+  <a class="btn btn-default" style="font-size:10px" href="#">{{friends.1.tag1}}</a>
+    <a class="btn btn-default" style="font-size:10px" href="#">{{friends.1.tag2}}</a>
+
+    <div class="col-xs-12" style="height:15px;"></div>
+<!--       <a class="btn btn-default" style="font-size:10px" href="/searchbytag/{{friends.1.tag3}}">{{friends.1.tag3}}</a> -->
+	</div>
+
+
+	<p class="descriptiontext">{{friends.1.description}}</p>
+
+		</center>
+	</div>
+	<div class="col-xs-12" style="height:10px;"></div>
+
+	<button class="col-xs-12 button pill big join">JOIN (+)</button>
+	<div class="col-xs-12" style="height:10px;"></div>
+		<center><h5>- + - + - + - + - + - + - + - + - + - +</h5></center>
+
+	</div>
 </div>
 
 	<!-- {{#each friends}}
