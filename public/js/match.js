@@ -340,3 +340,7 @@ $(document).ready(function() {
 	// }
 	
 })
+
+function getHelp() {
+	alert("Pick an option on this screen to get matched with the club that is right for you. Click join to add it to -My Clubs-");
+}
