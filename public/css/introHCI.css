@@ -18,6 +18,9 @@ body {
   margin-
 }
 
+.seethrough {
+  opacity:0.9;
+}
 .bg-style {
   background: url("../images/bg.png");
   background-repeat: repeat;
