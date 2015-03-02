@@ -814,6 +814,37 @@
 	"myfriends": [
 
 	{
+			"name": "International Health Collective",
+			"description": "The International Health Collective (or IHC) is a UCSD student-run non-profit organization that establishes a temporary free clinic in communities that need medical help around the world. Our first and primary goal is to assist underprivileged communities with free medical care, medicine, and health education to improve the prevalent illnesses seen in underdeveloped communities. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Ji Kim",
+			"vp": "Jayson Wright",
+			"idnum": 28,
+			"link": "ihealthcollective",
+			"email": "ihealthcollectiveucsd@gmail.com",
+			"tag1": "professional",
+			"tag2": "prehealth",
+			"tag3": "weekly"
+		},
+
+	{
+			"name": "French Club",
+			"description": "To promote knowledge and spread enjoyment of the French language, among other aspects of Francophone cultures, such as cuisine, cinematography, literature, history, and current events happening in Francophone countries. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Austin Lefebvre",
+			"vp": "Stephanie Thomas",
+			"idnum": 48,
+			"link": "french",
+			"email": "aelefebv@ucsd.edu",
+			"tag1": "cultural",
+			"tag2": "europe",
+			"tag3": "weekly"
+		},
+		
+
+	{
 			"name": "Black Student Union",
 			"description": "To inspire, enlighten, and uplift the Black/African American community on the campus of UCSD through academic, social, and cultural programming. The goal of the Black Student Union is to create successful Black/African American student leaders. ",
 			"imageURL": "images/default.png",
