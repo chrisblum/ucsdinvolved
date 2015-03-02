@@ -12,7 +12,7 @@ function initializePage() {
 	console.log("Javascript connected!");
 
 	$(".nameselection").click(anagramthing);
-
+	$(".removeitem").click(removeClub);
 	// $("#submit").click(sendMessage);
 }
 
@@ -49,6 +49,14 @@ function anagrammedName(name) {
 		return name;
 	}
 }
+
+function removeClub(e) {
+	e.preventDefault();
+
+	var clubdiv = $(this).closest('div').attr('id');
+	$("#"+clubdiv).fadeOut('slow');return false;
+}
+
 
 function anagramthing(e) {
 	console.log("Project clicked");

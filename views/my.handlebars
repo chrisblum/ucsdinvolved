@@ -8,7 +8,7 @@
 
   {{#each myfriends}}
 
-  <div class="myfriend container1">
+  <div class="myfriend container1" id="{{link}}">
   <div class="col-xs-12">
   <center><img src="{{imageURL}}" class="img-responsive img-rounded"/></center></div>
   <div class="col-xs-12 spacer"></div>
@@ -23,20 +23,23 @@
   <center><button class="col-xs-12 button big pill icon user">VP: {{vp}}</button></center>
 
   <div class="col-xs-12" style="height:15px;"></div>
-  <center><a href="{{website}}"><button class="col-xs-12 button big primary icon arrowright">Website: {{website}}</button></a></center>
+  <center><a href="{{website}}"><button class="col-xs-12 button big primary icon arrowright">Website</button></a></center>
    <div class="col-xs-12" style="height:15px;"></div>
 </div>
 
-  </div>
+  
 
     <a href="mailto:{{email}}"><button class="col-xs-12 button big primary icon mail">CONTACT</button></a>
     <div class="col-xs-12" style="height:15px;"></div>
     <div class="col-xs-8"></div>
-    <button class="col-xs-4 button danger">REMOVE</button>
+    <button class="col-xs-4 button danger removeitem">REMOVE</button>
+
 
     <div class="col-xs-12" style="height:15px;"></div>
 
     <center><h5>- - - - - - - - - - - -</h5></center>
+
+  </div>
 
   {{/each}}
 
