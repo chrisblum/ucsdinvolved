@@ -13,7 +13,7 @@
 
 	{{#each friends}}
 
-	<div class="container1">
+	<div class="container1" id="{{link}}" description="{{description}}">
 	<div class="col-xs-12">
 	<center><img src="{{imageURL}}" class="img-responsive img-rounded"/></center></div>
 
@@ -29,14 +29,20 @@
 
 		</center>
 	</div>
+<form style="display:none;" id="{{name}}form" action="/addclub" method="POST">
+	<input type="text" id="nameee" value="{{name}}">
+</form>
 
-	<div class="btn-group">
-  <a class="btn btn-default" href="#"><i class="fa fa-tags"></i></a>
-  <a class="btn btn-default" href="#">{{tag1}}</a>
-    <a class="btn btn-default" href="#">{{tag2}}</a>
-      <a class="btn btn-default" href="/searchbytag/{{tag3}}">{{tag3}}</a>
+	<div class="btn-group" id="{{name}}">
+  <a class="btn btn-default" style="font-size:10px" href="#"><i class="fa fa-tags"></i></a>
+  <a class="btn btn-default" style="font-size:10px" href="#">{{tag1}}</a>
+    <a class="btn btn-default" style="font-size:10px" href="#">{{tag2}}</a>
+      <a class="btn btn-default" style="font-size:10px" href="/searchbytag/{{tag3}}">{{tag3}}</a>
 	</div>
-	<button class="col-xs-12 btn btn-default join" id="{{link}}">JOIN</button>
+
+	<div class="col-xs-12" style="height:10px;"></div>
+	
+	<button class="col-xs-12 btn btn-default join" id="{{@index}}">JOIN</button>
 		<center><h5>- - - - - - - - - - - -</h5></center>
 
 	</div>

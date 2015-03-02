@@ -1,0 +1,865 @@
+{
+	"friends": [
+		{
+			"name": "Acamazing",
+			"description": "Acamazing is a student-run co-ed a cappella group at UCSD comprised of undergraduate students, we are united by our love and passion for music and singing.",
+			"imageURL": "http://acamazing.ucsd.edu/gallery/explosion.jpg",
+			"website": "http://acamazing.ucsd.edu",		
+			"president": "Briana Zimmers",
+			"vp": "Nathan Thai",
+			"idnum": 1,
+			"link": "acamazing",
+			"email": "acamazing@ucsd.edu",
+			"tag1": "social",
+			"tag2": "acapella",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "American Institute of Chemical Engineers",
+			"description": "The AIChE aims to promote the professional development of Chemical Engineer majors at UCSD and to build a community through social activities, career-building events, and service opportunites.",
+			"imageURL": "https://lh5.googleusercontent.com/-3WaOFTDXFaw/T8xxXCYsJJI/AAAAAAAABpg/uftLu-kpMsc/s640/DSC_0131.jpg",
+			"website": "http://aiche.ucsd.edu",
+			"president": "Bao Vo Ngo",
+			"vp": "Sarah Diaz",
+			"idnum": 2,
+			"link": "aiche",
+			"email": "aiche@ucsd.edu",
+			"tag1": "academic",
+			"tag2": "engineering",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Anthropology Club",
+			"description": "The UCSD Anthropology Club is a loose coalition of students and faculty interested in all branches of anthropology. Meetings are casual and usually involve good food and friendly discussion.",
+			"imageURL": "https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/27806_389549724365_3548489_n.jpg?oh=c3dcc735eacc29e142aded57f4013952&oe=5557FB5D&__gda__=1431711268_41823dd77a4b6016fe50e165b3623791",
+			"website": "http://anthroclub.ucsd.edu",
+			"president": "Sarah Mace",
+			"vp": "Althea Escalante",
+			"idnum": 3,
+			"link": "anthropology",
+			"email": "smace@ucsd.edu",
+			"tag1": "social",
+			"tag2": "more",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Boxing at UCSD",
+			"description": "To promote awareness and appreciation of the sport of boxing as well as supporting those who seek to compete at the intercollegiate league.",
+			"imageURL": "http://boxingatucsd.weebly.com/uploads/4/5/7/0/45700963/7985088_orig.jpg",
+			"website": "http://boxingatucsd.weebly.com",
+			"president": "Kurt Nyugen",
+			"vp": "Nathaneal Malazo",
+			"idnum": 4,
+			"link": "boxing",
+			"email": "ucsdboxing@gmail.com",
+			"tag1": "martial arts",
+			"tag2": "active",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Circle K International",
+			"description": "Circle K International (CKI) is an organization at the collegiate and university levels. CKI promotes community service, leadership development, and fellowship and frienship.",
+			"imageURL": "https://c1.staticflickr.com/9/8531/8505099001_c0b1d24b85_z.jpg",
+			"website" : "http://ucsdcki.org",
+			"president": "Jaime Estepa",
+			"vp": "Taryn Conyers",
+			"idnum": 5,
+			"link": "circlek",
+			"email": "vpa@ucsdcki.org",
+			"tag1": "social",
+			"tag2": "more",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Cognitive Science Student Association",
+			"description": "We aim to connect with professional groups in the San Diego area in order to help our members discover the multidisciplinary qualifications that Cognitive Science offers to the professional world.  Our events, meetings, outings, and easy-going atmosphere promote a close-knit community and provide invaluable services and opportunities to anyone who is interested in becoming an active member of CSSA.",
+			"imageURL": "https://ucsdcssa.files.wordpress.com/2013/02/alex.jpg?w=300",
+			"website": "http://cssa.ucsd.edu/",
+			"president": "Nicholas Dudeck",
+			"vp": "Wednesday Bushong",
+			"idnum": 6,
+			"link": "cssa",
+			"email": "cogsci-sa@ucsd.edu",
+			"tag1": "academic",
+			"tag2": "science",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Bachata Club",
+			"description": "The Bachata Club at UC San Diego is a non-profit organization offering Bachata dance instruction to the student population at large (undergraduate, graduate, part-time, full-time), faculty, staff, and alumni. We hope to create a fun social group that will foster a life-long appreciation for dancing in general.",
+			"imageURL": "#",
+			"website": "#",
+			"president": "Edith Gastelum",
+			"vp": "Silvia Rodriguez",
+			"idnum": 7,
+			"link": "bachata",
+			"email": "edgastel@ucsd.edu ",
+			"tag1": "active",
+			"tag2": "dance",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Salsa Club",
+			"description": "The Salsa Club at UC San Diego is a non-profit organization offering Salsa dance instruction to the student population at large (undergraduate, graduate, part-time, full-time), faculty, staff, and alumni. We hope to create a fun social group that will foster a life-long appreciation for dancing in general.",
+			"imageURL": "#",
+			"website": "#",
+			"president": "Edith Gastelum",
+			"vp": "Andy Ferruzca",
+			"idnum": 8,
+			"link": "salsa",
+			"email": "edgastel@ucsd.edu",
+			"tag1": "active",
+			"tag2": "dance",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Swing Club",
+			"description": "Swing Club at UCSD Constitution Purpose: To provide a safe and fun place for people to discuss and practice the art of swing dancing and make friends. Swing Club at UCSD is a non-profit student organization.",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Rosalie Ellis",
+			"vp": "Juliana Price",
+			"idnum": 9,
+			"link": "swing",
+			"email": "rellis@ucsd.edu",
+			"tag1": "active",
+			"tag2": "dance",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "United Korean Athletes Association",
+			"description": "The United Korean Athletes Association at University of California, San Diego is a nonprofit student organization that promotes healthy interactions among Korean students through the following measures: (1) promotion of athletic activities including but not limited to basketball, soccer, and even traditional Korean activities such as Ssireum (2) directly and indirectly assisting their needs in the purpose of aiding students' adaptation to the new environment.",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Jongmin Kim",
+			"vp": "Younghun Shim",
+			"idnum": 10,
+			"link": "ukaa",
+			"email": "ukaa4youo@gmail.com",
+			"tag1": "active",
+			"tag2": "more",
+			"tag3": "athletes"
+		},
+
+		{
+			"name": "Wrestling Club",
+			"description": "To provide a club that allows students to train and compete in collegiate wrestling.",
+			"imageURL": "images/default.png",
+			"website": "https://www.facebook.com/groups/ucsdwrestling",
+			"president": "Brian Chao",
+			"vp": "Chiluugin Tumurchudur",
+			"idnum": 11,
+			"link": "wrestling",
+			"email": "btchao@ucsd.edu",
+			"tag1": "active",
+			"tag2": "more",
+			"tag3": "wrestling"
+		},
+
+		{
+			"name": "Strides Running Club",
+			"description": "to provide a fun and social atmosphere for recreational and competitive running. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Kimberly Knight",
+			"vp": "Juanmiguel Ortiz",
+			"idnum": 12,
+			"link": "strides",
+			"email": "strides@ucsd.edu",
+			"tag1": "active",
+			"tag2": "more",
+			"tag3": "running"
+		},
+
+		{
+			"name": "Triton Gaming",
+			"description": "Triton Gaming is a group of collegiate organizers that team up to create epic entertainment experiences for student gamers at the University of California, San Diego.",
+			"imageURL": "images/default.png",
+			"website": "www.facebook.com/tritongaming ",
+			"president": "Kevin He",
+			"vp": "Duy Nguyen",
+			"idnum": 13,
+			"link": "tritongaming",
+			"email": "kevin@tritongaming.org",
+			"tag1": "social",
+			"tag2": "videogames",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Triton Dota",
+			"description": "Triton Dota is a student run organization formed to foster a community for individuals passionate about Dota. We strive to create an environment where players and enthusiasts can gather and build lasting relationships with one another. ",
+			"imageURL": "images/default.png",
+			"website": "https://www.facebook.com/groups/378054608914858/",
+			"president": "Thomas Pham",
+			"vp": "Kevin He",
+			"idnum": 14,
+			"link": "tritondota",
+			"email": "thp004@ucsd.edu",
+			"tag1": "social",
+			"tag2": "videogames",
+			"tag3": "daily"
+		},
+
+		{
+			"name": "Triton Starcraft",
+			"description": "To provide a fun environment for Starcraft players to learn the game and to promote Starcraft as an ESPORT. We will also field a team of Starcraft players to represent UCSD in the Collegiate Star League. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Jerry Ng",
+			"vp": "Chi Hsu",
+			"idnum": 15,
+			"link": "starcraft",
+			"email": "ucsdstarcraft@gmail.com",
+			"tag1": "social",
+			"tag2": "videogames",
+			"tag3": "daily"
+		},
+
+		{
+			"name": "League of Tritons",
+			"description": "Our club seeks to provide both a recreational, social, and competitive community for players of the game League of Legends within UCSD and the greater San Diego area.",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Andrew Char",
+			"vp": "Samuel Ko",
+			"idnum": 16,
+			"link": "leagueoftritons",
+			"email": "leagueoftritons@gmail.com",
+			"tag1": "social",
+			"tag2": "videogames",
+			"tag3": "daily"
+		},
+
+		{
+			"name": "Tritones",
+			"description": "To encourage participation in the fine arts, to provide entertainment, to support all musical endeavors, to expand the genre of a cappella in the San Diego region.",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Mauna Griffia",
+			"vp": "Danielle Hall",
+			"idnum": 17,
+			"link": "tritones",
+			"email": "tritones@ucsd.edu",
+			"tag1": "social",
+			"tag2": "acapella",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Treble Singers",
+			"description": "The purpose of this ensemble is to find joy through singing together. We sing for ourselves and perform to share our love of music with others. We will explore a wide variety of musical styles and genres, including jazz, classical, and popular music. ",
+			"imageURL": "images/default.png",
+			"website": "http://thetreblesingers.ucsd.edu",
+			"president": "Monica Furuta",
+			"vp": "Melina Cunha",
+			"idnum": 18,
+			"link": "treblesingers",
+			"email": "thetreble@ucsd.edu",
+			"tag1": "social",
+			"tag2": "acapella",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Imports@UCSD",
+			"description": "As a car club at the University of California, San Diego, Imports@UCSD aims to build a community for car enthusiasts to gather and share their collective knowledge about automobiles and motor sports. Our goals include teaching members about various aspects of automotive knowledge while constructing a network to develop strong connections in the automotive industry.",
+			"imageURL": "images/default.png",
+			"website": "http://imports.ucsd.edu/",
+			"president": "Corey Callaway",
+			"vp": "Ryan Fanant",
+			"idnum": 19,
+			"link": "imports",
+			"email": "imports@ucsd.edu",
+			"tag1": "social",
+			"tag2": "car",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Graduate Women in Science and Engineering (GradWISE)",
+			"description": "To address issues important to graduate women in science and engineering in a supportive environment and promote programming on topics of interest to said group.",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Yicong Ma",
+			"vp": "Erica Pandolfi",
+			"idnum": 20,
+			"link": "gradwise",
+			"email": "gradwise@ucsd.edu",
+			"tag1": "academic",
+			"tag2": "science",
+			"tag3": "engineering"
+		},
+
+		{
+			"name": "Psi Chi",
+			"description": "Psi Chi, the International Honor Society in Psychology, seeks to encourage and stimulate excellence in the field of psychology. We do this by providing resources, information, and activities that allow students to reach their academic, career, and personal goals.",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Deborah May",
+			"vp": "Guicheng Tan",
+			"idnum": 21,
+			"link": "psichi",
+			"email": "deborahmay23@gmail.com",
+			"tag1": "academic",
+			"tag2": "science",
+			"tag3": "fraternity"
+		},
+
+		{
+			"name": "Society of Physics Students",
+			"description": "A place for all those who are interested in the study of physics. We strive to create an environment for conversations, experiments and networking. ",
+			"imageURL": "images/default.png",
+			"website": "https://www.facebook.com/groups/2220740529/",
+			"president": "Bristol Keele Scott",
+			"vp": "Malia Gibson",
+			"idnum": 22,
+			"link": "physicsstudents",
+			"email": "physics.ucsd@gmail.com",
+			"tag1": "academic",
+			"tag2": "science",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Nanoengineering and Technology Society",
+			"description": "NET is a non-profit organization which facilitates communication and cooperation between NanoEngineering students, faculty members, and the industry abroad of NanoEngineering. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Justine Tran",
+			"vp": "Catherine Pham",
+			"idnum": 23,
+			"link": "nanoengineering",
+			"email": "netsatucsd@gmail.com",
+			"tag1": "academic",
+			"tag2": "engineering",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Tau Beta Pi",
+			"description": "Tau Beta Pi is the premier engineering honor society in the United States and one of the top three honor societies in the nation. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Kristine Tan",
+			"vp": "Delara Fadavi",
+			"idnum": 24,
+			"link": "taubetapi",
+			"email": "tbp@ucsd.edu",
+			"tag1": "academic",
+			"tag2": "engineering",
+			"tag3": "fraternity"
+		},
+
+		{
+			"name": "Premedical APAMSA",
+			"description": "The purpose of our organization is to involve and educate pre-medical undergraduate students at UCSD on the health issues that pertain to the Asian community and enable them to serve the Asian Pacific communities throughout the greater San Diego region.",
+			"imageURL": "images/default.png",
+			"website": "apamsa.ucsd.edu",
+			"president": "Richard Loi",
+			"vp": "Jessica Phan",
+			"idnum": 25,
+			"link": "apamsa",
+			"email": "ucsdapamsa@gmail.com",
+			"tag1": "professional",
+			"tag2": "premedical",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "American Medical Student Association",
+			"description": "UCSD AMSA pre-medical chapter is dedicated to providing valuable resources for pre-medical students here at UCSD, as well as presenting opportunities for involvement in the health-care community.",
+			"imageURL": "images/default.png",
+			"website": "hhttp://www.ucsdamsa.com/",
+			"president": "Meghna Mehta",
+			"vp": "Timothy Tran",
+			"idnum": 26,
+			"link": "amsa",
+			"email": "amsaucsd@gmail.com",
+			"tag1": "professional",
+			"tag2": "premedical",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Health and Medical Professions Preparation Program",
+			"description": "he UCSD Health and Medical Professions Preparation Program (HMP3) provides undergraduates with enriching experiences that will enhance their preparation for admission into professional school in the medical and other health professions.",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Jun Kyoung",
+			"vp": "Kim Tran",
+			"idnum": 27,
+			"link": "hmp3",
+			"email": "hmp3.ucsd@gmail.com",
+			"tag1": "professional",
+			"tag2": "prehealth",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "International Health Collective",
+			"description": "The International Health Collective (or IHC) is a UCSD student-run non-profit organization that establishes a temporary free clinic in communities that need medical help around the world. Our first and primary goal is to assist underprivileged communities with free medical care, medicine, and health education to improve the prevalent illnesses seen in underdeveloped communities. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Ji Kim",
+			"vp": "Jayson Wright",
+			"idnum": 28,
+			"link": "ihealthcollective",
+			"email": "ihealthcollectiveucsd@gmail.com",
+			"tag1": "professional",
+			"tag2": "prehealth",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Prepharmacy Society",
+			"description": "Pre-Pharmacy Society is an organization that promotes the career of pharmacy through a variety of resources that include workshops, volunteer opportunities, guest speakers, and networking to compliment the interests of our members.",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Karan Patel",
+			"vp": "Kyle Kwong",
+			"idnum": 29,
+			"link": "pps",
+			"email": "tpps@ucsd.edu",
+			"tag1": "professional",
+			"tag2": "prepharmacy",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "American Pharmacists Association",
+			"description": "Our mission is to be the collective voice of student pharmacists, to provide opportunities for professional growth, and to envision and actively promote the future of pharmacy.",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Danielle Ishihara",
+			"vp": "Matthew Horton",
+			"idnum": 30,
+			"link": "ama",
+			"email": "dishihar@ucsd.edu",
+			"tag1": "professional",
+			"tag2": "prepharmacy",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Sigma Omicron Pi",
+			"description": "To promote Asian American Awareness through unity, friendship, leadership and service.",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Jocelyn Paz",
+			"vp": "Xin Hu",
+			"idnum": 31,
+			"link": "sopi",
+			"email": "pazjocelyn@gmail.com",
+			"tag1": "greek",
+			"tag2": "mcg",
+			"tag3": "sorority"
+		},
+
+		{
+			"name": "Kappa Zeta Phi",
+			"description": "To provide an opportunity for long lasting friendship and sisterhood to develop the individual in the areas of wholesome attitudes and ideals. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Alyssa Middo",
+			"vp": "Stephanie Joy Andaya",
+			"idnum": 32,
+			"link": "kzphi",
+			"email": "amiddo@ucsd.edu",
+			"tag1": "greek",
+			"tag2": "mcg",
+			"tag3": "sorority"
+		},
+
+		{
+			"name": "Kappa Kappa Gamma",
+			"description": "To build and provide bonds of friendship, mutual support, respect for intellectual development, and an understanding and allegiance to positive ethical principles. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Niaz Ahankoob",
+			"vp": "Jessica Chang",
+			"idnum": 33,
+			"link": "kappakappagamma",
+			"email": "kkgpresidentucsd@gmail.com",
+			"tag1": "greek",
+			"tag2": "panhellenic",
+			"tag3": "sorority"
+		},
+
+		{
+			"name": "Kappa Alpha Theta",
+			"description": "Yesterday, today, and tomorrow, Kappa Alpha Theta exists to nurture each member throughout her college and alumnae experience and to offer a lifelong opportunity for social, intellectual, and moral growth as she meets the higher and broader demands of mature life. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Nikol Sarbaich",
+			"vp": "Anne Tobias",
+			"idnum": 34,
+			"link": "kat",
+			"email": "syhoward@ucsd.edu",
+			"tag1": "greek",
+			"tag2": "panhellenic",
+			"tag3": "sorority"
+		},
+
+		{
+			"name": "Delta Gamma",
+			"description": "The ladies of Delta Gamma pride themselves on their commitment to fostering high ideals of friendship, promoting educational and cultural interests, creating a true sense of social responsibility, and developing the finest qualities of character. ",
+			"imageURL": "images/default.png",
+			"website": "http://ucsd.deltagamma.org/ ",
+			"president": "Victoria Nauman",
+			"vp": "Rosemary Williams",
+			"idnum": 35,
+			"link": "deltagamma",
+			"email": "ashamiri@ucsd.edu",
+			"tag1": "greek",
+			"tag2": "panhellenic",
+			"tag3": "sorority"
+		},
+
+		{
+			"name": "Pi Alpha Phi",
+			"description": "Asian American Interest Fraternity ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Timothy Wang",
+			"vp": "Bruce Zhang",
+			"idnum": 36,
+			"link": "pialphaphi",
+			"email": "tyw006@ucsd.edu",
+			"tag1": "greek",
+			"tag2": "mcg",
+			"tag3": "fraternity"
+		},
+
+		{
+			"name": "Psi Chi Omega",
+			"description": "We are an Asian-interest social fraternity established to uphold the values of integrity, perseverance, and eternal brotherhood. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Bill Tieu",
+			"vp": "Oliver Reyes",
+			"idnum": 37,
+			"link": "psichiomega",
+			"email": "psichiomega@gmail.com",
+			"tag1": "greek",
+			"tag2": "mcg",
+			"tag3": "fraternity"
+		},
+
+		{
+			"name": "Sigma Alpha Epsilon",
+			"description": "We believe in connecting free thinking, innovative gentlemen through brotherhood and social experiences. We believe in the original brotherhood experience our founders created. We believe in the True Gentlemen.",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Thadeus Odom",
+			"vp": "Alexander Boone",
+			"idnum": 38,
+			"link": "sae",
+			"email": "thadeus.odom@gmail.com",
+			"tag1": "greek",
+			"tag2": "ifc",
+			"tag3": "fraternity"
+		},
+
+		{
+			"name": "Tae Kwon Do Club",
+			"description": "The purpose of this student organization is to create a community where UCSD students can come together to share a mutual interest in and practice the art of Olympic Style Tae Kwon Do in a fun and safe manner, and to spread awareness of the art in an atmosphere that values and stresses resolve, diligence and above all respect. ",
+			"imageURL": "images/default.png",
+			"website": "http://taekwondo.ucsd.edu/",
+			"president": "Jeannie Toek",
+			"vp": "Brendan Ha",
+			"idnum": 39,
+			"link": "taekwondo",
+			"email": "taekwondo@ucsd.edu",
+			"tag1": "active",
+			"tag2": "martial arts",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Judo Club",
+			"description": "The purpose of the organization is to gather Judo enthusiasts, both new and experienced, to practice and appreciate the sport. The two central tenets of our organization are a focus on the perfection of our skills, and communal prosperity both on and off the mat.",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Bryce Oishi",
+			"vp": "Dean Lam",
+			"idnum": 40,
+			"link": "judo",
+			"email": "ucsdjudo@gmail.com",
+			"tag1": "active",
+			"tag2": "martial arts",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Sigma Nu",
+			"description": "To promote scholastics, a good social environment, philanthropy, sports, and leadership for UCSD students. ",
+			"imageURL": "images/default.png",
+			"website": "http://ucsdsigmanu.org/ ",
+			"president": "Conner Johnston",
+			"vp": "Jacob Rutheiser",
+			"idnum": 41,
+			"link": "sigmanu",
+			"email": "ucsdsigmanupresident@gmail.com",
+			"tag1": "greek",
+			"tag2": "ifc",
+			"tag3": "fraternity"
+		},
+
+		{
+			"name": "Tau Kappa Epsilon",
+			"description": "TKE contributes to the advancement of society through the personal growth of our members and service to others. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Cameron McElfresh",
+			"vp": "William Carson",
+			"idnum": 42,
+			"link": "tke",
+			"email": "bmknapp@gmail.com ",
+			"tag1": "greek",
+			"tag2": "ifc",
+			"tag3": "fraternity"
+		},
+
+		{
+			"name": "Pi Kappa Alpha",
+			"description": "To set the standard of integrity, intellect, and achievement for our members, host institutions, and the communities in which we live. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "David Feess",
+			"vp": "Laban Zscheile",
+			"idnum": 43,
+			"link": "pike",
+			"email": "dfeess@ucsd.edu",
+			"tag1": "greek",
+			"tag2": "ifc",
+			"tag3": "fraternity"
+		},
+
+		{
+			"name": "Afghan Student Association",
+			"description": "To educate and promote Afghan culture through presentations, activities, and social events at and around the University of California, San Diego",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Edrees Noorzay",
+			"vp": "Sammay Azhand",
+			"idnum": 44,
+			"link": "afghan",
+			"email": "enoorzay@ucsd.edu",
+			"tag1": "cultural",
+			"tag2": "asia",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Chinese Union",
+			"description": "Promoting Chinese culture and building stronger bond within the UCSD Chinese American community.",
+			"imageURL": "images/default.png",
+			"website": "www.ucsdcu.com",
+			"president": "Kuang Yu",
+			"vp": "Yuan Yang",
+			"idnum": 45,
+			"link": "chineseunion",
+			"email": "ucsandiegochineseunion@gmail.com",
+			"tag1": "cultural",
+			"tag2": "asia",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Cambodian Student Association",
+			"description": "We, a non-profit organization called the Cambodian Student Association (CSA) of the University of California, San Diego (UCSD), believe that by (1) building and strengthening identification of the Cambodian culture among fellow members, students and community at large,...",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Ronnie Nop",
+			"vp": "Benjamin Lee",
+			"idnum": 46,
+			"link": "csa",
+			"email": "csa.ucsd@gmail.com",
+			"tag1": "cultural",
+			"tag2": "asia",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "African Student Association",
+			"description": "To serve and educate the UCSD community about African history, traditions, customs, happenings, and culture. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Ijeoma Kalu",
+			"vp": "Blessing Adeleke",
+			"idnum": 47,
+			"link": "africanstudentassoc",
+			"email": "asaucsd@gmail.com",
+			"tag1": "cultural",
+			"tag2": "african",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "French Club",
+			"description": "To promote knowledge and spread enjoyment of the French language, among other aspects of Francophone cultures, such as cuisine, cinematography, literature, history, and current events happening in Francophone countries. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Austin Lefebvre",
+			"vp": "Stephanie Thomas",
+			"idnum": 48,
+			"link": "french",
+			"email": "aelefebv@ucsd.edu",
+			"tag1": "cultural",
+			"tag2": "europe",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Hermanas Unidas de UCSD",
+			"description": "Hermanas Unidas is a Latina based organization that focuses primarily on academics, community service, and collegial networking. 'Poder de la Mujer' is what all Hermanas strive to embody, both as individual women and as an organization. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Alejandra Dolores",
+			"vp": "Karely Ruiz",
+			"idnum": 49,
+			"link": "hermanas",
+			"email": "hau.ucsd.cochair2@gmail.com",
+			"tag1": "cultural",
+			"tag2": "southamerica",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Raza Graduate Student Association",
+			"description": "The purposes of the Raza Graduate Student Association is to increase unity among graduate students of color and provide a community, reosurces, and social network for graduate students of color at UCSD.",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Jorge Leal",
+			"vp": "Alexis Meza",
+			"idnum": 50,
+			"link": "raza",
+			"email": "azagrad@ucsd.edu",
+			"tag1": "cultural",
+			"tag2": "southamerica",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Brazilian Student Association",
+			"description": "It is the purpose of the Brazilian Student Association to represent and empower the Brazilian community in the University and its surroundings, to establish solid relationships with other universities and to form partnerships with the social, political, corporate and industrial sectors of Brazilian society. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Jonas Garcia Lopes De Castro",
+			"vp": "Kevin Lin",
+			"idnum": 51,
+			"link": "brazilian",
+			"email": "jcachead@ucsd.edu",
+			"tag1": "cultural",
+			"tag2": "southamerica",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "UNITED",
+			"description": "To strengthen the relationship between Muslim, Jewish and Christian Students. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Lea Shapiro",
+			"vp": "Ayse Sahan",
+			"idnum": 52,
+			"link": "united",
+			"email": "Lea.s.shapiro@gmail.com",
+			"tag1": "cultural",
+			"tag2": "more",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Youth Cultural Enrichment",
+			"description": "The purpose of Youth Cultural Enrichment is for its members to provide cultural enrichment, especially of the Iranian cultural and religious heritage to the San Diego community and more specifically, the Youth. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Samaneh Keshavarz",
+			"vp": "Hedieh Matinrad",
+			"idnum": 53,
+			"link": "youthcultural",
+			"email": "s1keshav@ucsd.edu",
+			"tag1": "cultural",
+			"tag2": "more",
+			"tag3": "weekly"
+		},
+
+		{
+			"name": "Black Student Union",
+			"description": "To inspire, enlighten, and uplift the Black/African American community on the campus of UCSD through academic, social, and cultural programming. The goal of the Black Student Union is to create successful Black/African American student leaders. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Jazzalyn Livingston",
+			"vp": "Victoria Gichohi",
+			"idnum": 54,
+			"link": "bsu",
+			"email": "ucsdblackstudentunion@gmail.com",
+			"tag1": "cultural",
+			"tag2": "northamerican",
+			"tag3": "weekly"
+		}
+	],
+
+	"myfriends": [
+
+	{
+			"name": "International Health Collective",
+			"description": "The International Health Collective (or IHC) is a UCSD student-run non-profit organization that establishes a temporary free clinic in communities that need medical help around the world. Our first and primary goal is to assist underprivileged communities with free medical care, medicine, and health education to improve the prevalent illnesses seen in underdeveloped communities. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Ji Kim",
+			"vp": "Jayson Wright",
+			"idnum": 28,
+			"link": "ihealthcollective",
+			"email": "ihealthcollectiveucsd@gmail.com",
+			"tag1": "professional",
+			"tag2": "prehealth",
+			"tag3": "weekly"
+		},
+
+	{
+			"name": "French Club",
+			"description": "To promote knowledge and spread enjoyment of the French language, among other aspects of Francophone cultures, such as cuisine, cinematography, literature, history, and current events happening in Francophone countries. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Austin Lefebvre",
+			"vp": "Stephanie Thomas",
+			"idnum": 48,
+			"link": "french",
+			"email": "aelefebv@ucsd.edu",
+			"tag1": "cultural",
+			"tag2": "europe",
+			"tag3": "weekly"
+		},
+		
+
+	{
+			"name": "Black Student Union",
+			"description": "To inspire, enlighten, and uplift the Black/African American community on the campus of UCSD through academic, social, and cultural programming. The goal of the Black Student Union is to create successful Black/African American student leaders. ",
+			"imageURL": "images/default.png",
+			"website": "#",
+			"president": "Jazzalyn Livingston",
+			"vp": "Victoria Gichohi",
+			"idnum": 54,
+			"link": "bsu",
+			"email": "ucsdblackstudentunion@gmail.com",
+			"tag1": "cultural",
+			"tag2": "northamerican",
+			"tag3": "weekly"
+		}
+
+	]
+
+
+}
