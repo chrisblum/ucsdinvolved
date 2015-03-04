@@ -94,7 +94,7 @@
 		{
 			"name": "Bachata Club",
 			"description": "The Bachata Club at UC San Diego is a non-profit organization offering Bachata dance instruction to the student population at large (undergraduate, graduate, part-time, full-time), faculty, staff, and alumni. We hope to create a fun social group that will foster a life-long appreciation for dancing in general.",
-			"imageURL": "#",
+			"imageURL": "images/default.png",
 			"website": "#",
 			"president": "Edith Gastelum",
 			"vp": "Silvia Rodriguez",
@@ -109,7 +109,7 @@
 		{
 			"name": "Salsa Club",
 			"description": "The Salsa Club at UC San Diego is a non-profit organization offering Salsa dance instruction to the student population at large (undergraduate, graduate, part-time, full-time), faculty, staff, and alumni. We hope to create a fun social group that will foster a life-long appreciation for dancing in general.",
-			"imageURL": "#",
+			"imageURL": "images/default.png",
 			"website": "#",
 			"president": "Edith Gastelum",
 			"vp": "Andy Ferruzca",

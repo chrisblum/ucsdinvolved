@@ -15,7 +15,6 @@ $(document).ready(function() {
 			var newEntry = { "name": name, "description": description};
 			console.log(newEntry);
 
-			$.get("/my");
 
 
 		});
