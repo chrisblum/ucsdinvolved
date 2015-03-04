@@ -17,14 +17,18 @@
 
 	<div class="striped container1 img-rounded" id="{{link}}" name="{{name}}" description="{{description}}">
 	
-	<div class="col-xs-12"><center><img src="{{imageURL}}" style="width:246px;" class="img-responsive img-rounded"/></center></div>
+	<div class="col-xs-12"><center><img src="{{imageURL}}" style="width:246px;" class="img-responsive img-rounded"/></center>
+
+	{{#if joined}}<div style="position:absolute;font-size:9px;margin-top:-65%;margin-left:80%;"><i style="color:yellow;" class="fa fa-star fa-3x"></i></div>{{/if}}
+
+	</div>
 
 	<div class="col-xs-12 spacer"></div>
 
 	<div class="descripdiv" id="{{name}}">
 	 <center>
 		<div class="clubnamestext">
-			<h4>{{name}}</h4>{{#if joined}}<div style="position:absolute;font-size:9px;margin-top:-200px;margin-left:85%;"><i style="color:yellow;" class="fa fa-star fa-3x"></i></div>{{/if}}
+			<h4>{{name}}</h4>
 		</div>
 
 	<p class="descriptiontext">{{description}}</p>
