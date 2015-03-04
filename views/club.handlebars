@@ -51,9 +51,9 @@
 
 	<div class="btn-group" id="{{name}}">
   <button class="btn btn-default" style="font-size:10px" href="#"><i class="fa fa-tags"></i></button>
-  <button class="btn btn-default" style="font-size:10px" href="#">{{tag1}}</button>
-    <button class="btn btn-default" style="font-size:10px" href="#">{{tag2}}</button>
-        <button class="btn btn-default" style="font-size:10px" href="#">{{tag3}}</button>
+  {{#if tag1}}<button class="btn btn-default" style="font-size:10px" href="#">{{tag1}}</button>{{/if}}
+    {{#if tag2}}<button class="btn btn-default" style="font-size:10px" href="#">{{tag2}}</button>{{/if}}
+        {{#if tag3}}<button class="btn btn-default" style="font-size:10px" href="#">{{tag3}}</button>{{/if}}
   <!--     <a class="btn btn-default" style="font-size:10px" href="/searchbytag/{{tag3}}">{{tag3}}</a> -->
 	</div>
 
