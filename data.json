@@ -418,7 +418,8 @@
 			"email": "ihealthcollectiveucsd@gmail.com",
 			"tag1": "professional",
 			"tag2": "prehealth",
-			"tag3": "weekly"
+			"tag3": "weekly",
+			"joined": 1
 		},
 
 		{
@@ -718,7 +719,8 @@
 			"email": "aelefebv@ucsd.edu",
 			"tag1": "cultural",
 			"tag2": "europe",
-			"tag3": "weekly"
+			"tag3": "weekly",
+			"joined": 1
 		},
 
 		{
@@ -808,11 +810,27 @@
 			"email": "ucsdblackstudentunion@gmail.com",
 			"tag1": "cultural",
 			"tag2": "northamerican",
-			"tag3": "weekly"
+			"tag3": "weekly",
+			"joined": 1
 		}
 	],
 
 	"myfriends": [
+	{
+			"name": "Acamazing",
+			"description": "Acamazing is a student-run co-ed a cappella group at UCSD comprised of undergraduate students, we are united by our love and passion for music and singing.",
+			"imageURL": "http://acamazing.ucsd.edu/gallery/explosion.jpg",
+			"website": "http://acamazing.ucsd.edu",		
+			"president": "Briana Zimmers",
+			"vp": "Nathan Thai",
+			"idnum": 1,
+			"link": "acamazing",
+			"email": "acamazing@ucsd.edu",
+			"tag1": "social",
+			"tag2": "acapella",
+			"tag3": "weekly",
+			"joined": 1
+		},
 
 	{
 			"name": "International Health Collective",
@@ -826,7 +844,8 @@
 			"email": "ihealthcollectiveucsd@gmail.com",
 			"tag1": "professional",
 			"tag2": "prehealth",
-			"tag3": "weekly"
+			"tag3": "weekly",
+			"joined": 1
 		},
 
 	{
@@ -841,7 +860,8 @@
 			"email": "aelefebv@ucsd.edu",
 			"tag1": "cultural",
 			"tag2": "europe",
-			"tag3": "weekly"
+			"tag3": "weekly",
+			"joined": 1
 		},
 		
 
@@ -857,7 +877,8 @@
 			"email": "ucsdblackstudentunion@gmail.com",
 			"tag1": "cultural",
 			"tag2": "northamerican",
-			"tag3": "weekly"
+			"tag3": "weekly",
+			"joined": 1
 		}
 
 	]
