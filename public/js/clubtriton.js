@@ -14,6 +14,11 @@ function initializePage() {
 	$(".nameselection").click(anagramthing);
 	$(".removeitem").click(removeClub);
 	// $("#submit").click(sendMessage);
+	$(".accountcreated").click(accountCreated);
+}
+
+function accountCreated() {
+	alert("Account Created! Click 'Log In'");
 }
 
 
