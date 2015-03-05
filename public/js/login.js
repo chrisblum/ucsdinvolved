@@ -5,9 +5,9 @@ $(document).ready(function() {
 
 
 		$("#showInfoButton").click(function(e) {
+		$("#showInfoButton").hide();
 		$("#infoparagraph").slideDown("slow");
 		// $("#infoparagraph").show();
-		$("#showInfoButton").hide();
 	});
 
 
