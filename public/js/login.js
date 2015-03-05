@@ -11,7 +11,7 @@ $(document).ready(function() {
 	});
 
 
-		$("body").on("click","#closeInfoButton",function(){
+		$("body").on("click",".closeInfoButton",function(){
 		$("#infoparagraph").slideUp("fast");
 		$("#showInfoButton").slideDown("fast");
 
