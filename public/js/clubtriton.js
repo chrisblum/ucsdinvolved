@@ -57,7 +57,7 @@ function anagrammedName(name) {
 
 function removeClub(e) {
 	e.preventDefault();
-	var confirmRemove = confirm("Are you sure?");
+	var confirmRemove = confirm("This will remove the club from your list. Are you sure?");
 	if (confirmRemove) {
 
 	var clubdiv = $(this).closest('div').attr('id');
