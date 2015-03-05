@@ -15,6 +15,13 @@ function initializePage() {
 	$(".removeitem").click(removeClub);
 	// $("#submit").click(sendMessage);
 	$(".accountcreated").click(accountCreated);
+
+	$(".version_a").click(function() {
+		woopra.track("a_version_explore_click");
+	});
+	$(".version_b").click(function() {
+		woopra.track("b_version_explore_click");
+	});
 }
 
 function accountCreated() {
