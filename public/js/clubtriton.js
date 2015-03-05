@@ -9,7 +9,7 @@ $(document).ready(function() {
  * Function that is called when the document is ready.
  */
 function initializePage() {
-	console.log("Javascript connected!");
+	console.log("Clubtritonjs connected!");
 
 	$(".nameselection").click(anagramthing);
 	$(".removeitem").click(removeClub);
