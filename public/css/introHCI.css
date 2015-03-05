@@ -60,7 +60,7 @@ body {
 .jumbotron {
 	position: relative;
 	background: none;
-  height:90px;
+  height:50px;
 
 }
 
@@ -75,7 +75,7 @@ body {
      bottom: 0;
      right: 0;
      position: absolute;
-     height:90px;
+     height:50px;
 }
 
 .project a {
