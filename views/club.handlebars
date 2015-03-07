@@ -29,17 +29,18 @@
 	
 	<div class="col-xs-12"><center><img src="{{imageURL}}" style="width:248px;" class="img-responsive img-rounded"/></center>
 
-	{{#if joined}}<div style="position:absolute;font-size:9px;margin-top:-65%;margin-left:80%;"><i style="color:yellow;" class="fa fa-star fa-3x"></i></div>{{/if}}
 
 	</div>
 
 	<div class="col-xs-12 spacer"></div>
 
-	<div class="descripdiv" id="{{name}}">
+	<div class="descripdiv2" id="{{name}}">
 	 <center>
 		<div class="clubnamestext">
-			<h4>{{name}}</h4>
+			<h4 class="namestripe">{{name}}</h4>
 		</div>
+
+	{{#if joined}}<div style="position:absolute;font-size:9px;margin-top:-17%;margin-left:87%;"><i style="color:yellow;" class="fa fa-star fa-3x"></i></div>{{/if}}
 
 	<p class="descriptiontext">{{description}}</p>
 

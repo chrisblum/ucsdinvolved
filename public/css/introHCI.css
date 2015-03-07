@@ -1,7 +1,8 @@
 body {
      border: 1px dotted gray;
      padding: 20px;
-     background-color:#E4E2E4;
+/*     background-color:#E4E2E4;*/
+  background-color:#84adff;
 }
 
 .descripdiv {
@@ -66,9 +67,9 @@ body {
 
 .jumbotron:after {
      content:"";
-     background: url("../images/TritonStatue.jpg");
+/*     background: url("../images/TritonStatue.jpg");
      background-repeat: no-repeat;
-     background-position: center;
+     background-position: center;*/
      opacity: 0.2;
      top: 0;
      left: 0;
