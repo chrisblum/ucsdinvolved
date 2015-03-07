@@ -356,9 +356,9 @@
 		<p class="descriptiontext2">{{friends.1.description}}</p>
 
 	<div class="btn-group" id="{{friends.1.name}}" style="width:248px;margin-left:-15px;margin-top:-15px;">
-  <a class="btn btn-default" style="font-size:10px" href="#"><i class="fa fa-tags"></i></a>
-  <a class="btn btn-default" style="font-size:10px" href="#">{{friends.1.tag1}}</a>
-    <a class="btn btn-default" style="font-size:10px" href="#">{{friends.1.tag2}}</a>
+  <div class="btn btn-default" style="font-size:10px" href="#"><i class="fa fa-tags"></i></div>
+  <div class="btn btn-default" style="font-size:10px" href="#">{{friends.1.tag1}}</div>
+    <div class="btn btn-default" style="font-size:10px" href="#">{{friends.1.tag2}}</div>
 
     <div class="col-xs-12" style="height:15px;"></div>
 <!--       <a class="btn btn-default" style="font-size:10px" href="/searchbytag/{{friends.1.tag3}}">{{friends.1.tag3}}</a> -->
@@ -368,22 +368,27 @@
 		</center>
 	</div>
 
-	<button class="col-xs-4 button primary big profile">Profile</button>
+	<div style="width:248px;">
+	<button class="col-xs-4 button primary big profile" style="margin-left:-15px;">Profile</button>
 	<div class="col-xs-4"></div>
 
 	<div id="join{{link}}leave" style="display:none;" hack="join{{link}}">
 	<a class="leave">
-	<button class="col-xs-4 button primary big danger">Leave</button>
+	<button class="col-xs-4 button primary big danger" style="margin-right:10px;">Leave</button>
 	</a>
 	</div>
 
-	<div id="join{{link}}"><a class="join"><button class="col-xs-4 button primary big">Join</button></a></div>
+	<div id="join{{link}}"><a class="join"><button class="col-xs-4 button primary big" style="margin-right:10px;">Join</button></a></div>
+
 
 
 
 
 	<div class="col-xs-12" style="height:10px;"></div>
-		<center><h5>- + - + - + - + - + - + - + - + - + - +</h5></center>
+		<center style="opacity:1;height:10px;margin-left:-30px;">- + - + - + - + - + - + - + - + - + - + - + -</center>
+	<center style="opacity:1;margin-top:-18px;margin-left:-30px;">+ - + - + - + - + - + - + - + - + - + - + - +</center>
+	<center style="opacity:1;margin-top:-18px;margin-left:-30px;">- + - + - + - + - + - + - + - + - + - + - + -</center>
+</div>
 
 	</div>
 </div>
