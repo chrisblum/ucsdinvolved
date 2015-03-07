@@ -24,6 +24,17 @@ body {
 
 }
 
+
+#chooseone {
+
+}
+
+#chooseclub {
+  background-color:rgba(0,0,0,0.4);
+  color:white;
+
+}
+
 .namestripe {
   background-color:rgba(0, 0, 0, 0.7);
   color:white;
@@ -61,6 +72,22 @@ body {
   padding-bottom:7px;
   padding-left:7px;
   padding-right:7px;
+  width:248px;
+}
+
+.descriptiontext2 {
+  font-size:12px;
+  background-color:rgba(0,0,0,0.5);
+  color:white;
+  padding-top:7px;
+  padding-bottom:7px;
+  padding-left:5px;
+  padding-right:5px;
+  width:248px;
+  margin-left:-15px;
+  margin-top:-10px;
+  margin-bottom:15px;
+
 }
 
 .jumbotron {

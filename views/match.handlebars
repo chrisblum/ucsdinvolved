@@ -1,143 +1,159 @@
 <div class="container-fluid">
 <!-- <div onclick="goBack()" id="backbutton" style="margin-top:-10px;margin-bottom:10px"><<</div> -->
-<a href="/home" id="homebutton" class="btn btn-default" style="margin-left:-15px;"><i class="fa fa-home"></i></a>
-<div style="height:10px;"></div>
+<div style="width:278px;">
+<a href="/home" id="homebutton" class="btn btn-default" style="margin-left:-15px;margin-bottom:10px;width:75px;"><i class="fa fa-home"></i></a>
+
+<a href="#" id="profilebutton" class="btn btn-default" style="margin-left:124px;margin-bottom:10px;width:75px;"><i class="fa fa-user" style="margin-left:2px;"></i></a>
+
+</div>
+
 <div class="container1">
-	<div class="col-xs-12"><h2 style="text-align:center;margin-top:-10px;">Explore</h2></div></div>
-	<center><h5>- - - - - - - - - - - -</h5></center>
+	<div class="col-xs-12">
 
-	<div onclick="getHelp()" style="position:absolute;margin-left:230px;margin-top:-40px;"><i class="fa fa-question-circle fa-2x"></i></div>
+	<h3 style="text-align:center;margin-top:-10px;margin-bottom:-7px;width:278px;margin-left:-30px;margin-bottom:1px;" class="namestripe">Explore</h3></div>
+</div>
 
-	<div id="chooseone"><center><h5>Please choose an option below.</h5></center></div>
-	<div id="chooseclub" style="display:none;"><center><h5>Pick a club to join!</h5></center></div>
+	<div style="opacity:0.1;">
+	<center>- + - + - + - + - + - + - + - + - + - +</center>
+	<center style="margin-top:-18px;">+ - + - + - + - + - + - + - + - + - + -</center>
+	<center style="margin-top:-18px;margin-bottom:0px;">- + - + - + - + - + - + - + - + - + - +</center>
+	</div>
+
+
+	<div onclick="getHelp()" style="position:absolute;margin-left:230px;margin-top:-20px;"><i class="fa fa-question-circle fa-2x"></i></div>
+
+	<div id="chooseone"><center><h4>Please choose an option below.</h4></center></div>
+	<div id="chooseclub" style="display:none;"><center><h3>Pick a club to join!</h3></center></div>
 
 <div class="container-fluid clusters" id="toplevel">
+	<center>
 	<div class="col-xs-6">
-	<button id="academic" class="blue-pill">Academic</button></div>
+	<button id="academic" class="button primary big">Academic</button></div>
 	<div class="col-xs-6">
-	<button id="cultural" class="blue-pill">Cultural</button></div>
+	<button id="cultural" class="button primary big">Cultural</button></div>
 
 	<div class="col-xs-12" style="height:15px;"></div>
 
 	<div class="col-xs-6">
-	<button id="greek" class="blue-pill">Greek</button></div>
+	<button id="greek" class="button primary big">Greek</button></div>
 	<div class="col-xs-6">
-	<button id="professional" class="blue-pill">Professional</button></div>
+	<button id="professional" class="button primary big">Professional</button></div>
 	
 	<div class="col-xs-12" style="height:15px;"></div>
 
 	<div class="col-xs-6">
-	<button id="social" class="blue-pill">Social</button></div>
+	<button id="social" class="button primary big">Social</button></div>
 	<div class="col-xs-6">
-	<button id="active" class="blue-pill">Active</button></div>
+	<button id="active" class="button primary big">Active</button></div>
+</center>
 </div>
 
 
 <div class="container-fluid clusters" id="academicsubset" style="display:none;">
 	<div class="col-xs-12">
-	<button id="academic-science" class="blue-pill academic-science">Science</button></div>
+	<button id="academic-science" class="button primary big academic-science">Science</button></div>
 
 	<div class="col-xs-12" style="height:15px;"></div>
 
 	<div class="col-xs-12">
-	<button class="blue-pill academic-eng">Engineering</button></div>
+	<button class="button primary big academic-eng">Engineering</button></div>
 
 	<div class="col-xs-12" style="height:30px;"></div>
 
 	<div class="col-xs-12">
-	<button class="blue-pill backbutton-to-toplevel">Back</button></div>
+	<button class="button primary big backbutton-to-toplevel">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="culturalsubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill cultural-asia">Asia</button></div>
+	<button class="button primary big cultural-asia">Asia</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill cultural-africa">Africa</button></div>
+	<button class="button primary big cultural-africa">Africa</button></div>
 
 	<div class="col-xs-12" style="height:15px;"></div>
 
 	<div class="col-xs-6">
-	<button class="blue-pill cultural-europe">Europe</button></div>
+	<button class="button primary big cultural-europe">Europe</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill cultural-northamerica">N.America</button></div>
+	<button class="button primary big cultural-northamerica">N.America</button></div>
 
 	<div class="col-xs-12" style="height:15px;"></div>
 
 	<div class="col-xs-6">
-	<button class="blue-pill cultural-southamerica">S.America</button></div>
+	<button class="button primary big cultural-southamerica">S.America</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill cultural-more">More</button></div>
+	<button class="button primary big cultural-more">More</button></div>
 
 	<div class="col-xs-12" style="height:30px;"></div>
 
 	<div class="col-xs-6">
-	<button class="blue-pill backbutton-to-toplevel">Back</button></div>
+	<button class="button primary big backbutton-to-toplevel">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="greeksubset" style="display:none;">
 	<div class="col-xs-12">
-	<button class="blue-pill greek-guys">Guys</button></div>
+	<button class="button primary big greek-guys">Guys</button></div>
 
 	<div class="col-xs-12" style="height:15px;"></div>
 
 	<div class="col-xs-12">
-	<button class="blue-pill greek-girls">Girls</button></div>
+	<button class="button primary big greek-girls">Girls</button></div>
 
 	<div class="col-xs-12" style="height:30px;"></div>
 
 	<div class="col-xs-12">
-	<button class="blue-pill backbutton-to-toplevel">Back</button></div>
+	<button class="button primary big backbutton-to-toplevel">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="professionalsubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill professional-premed">Premed</button></div>
+	<button class="button primary big professional-premed">Premed</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill professional-prehealth">Prehealth</button></div>
+	<button class="button primary big professional-prehealth">Prehealth</button></div>
 
 	<div class="col-xs-12" style="height:15px;"></div>
 
 	<div class="col-xs-6">
-	<button class="blue-pill professional-prepharm">Prepharm</button></div>
+	<button class="button primary big professional-prepharm">Prepharm</button></div>
 
 	<div class="col-xs-12" style="height:30px;"></div>
 
 	<div class="col-xs-12">
-	<button class="blue-pill backbutton-to-toplevel">Back</button></div>
+	<button class="button primary big backbutton-to-toplevel">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="socialsubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill social-videogames">Video Games</button></div>
+	<button class="button primary big social-videogames">Video Games</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill social-acapella">Acapella</button></div>
+	<button class="button primary big social-acapella">Acapella</button></div>
 
 	<div class="col-xs-12" style="height:15px;"></div>
 
 	<div class="col-xs-6">
-	<button class="blue-pill social-car">Car</button></div>
+	<button class="button primary big social-car">Car</button></div>
 
 	<div class="col-xs-12" style="height:30px;"></div>
 
 	<div class="col-xs-12">
-	<button class="blue-pill backbutton-to-toplevel">Back</button></div>
+	<button class="button primary big backbutton-to-toplevel">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="activesubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill active-martialarts">Martial Arts</button></div>
+	<button class="button primary big active-martialarts">Martial Arts</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill active-dance">Dance</button></div>
+	<button class="button primary big active-dance">Dance</button></div>
 
 	<div class="col-xs-12" style="height:15px;"></div>
 
 	<div class="col-xs-6">
-	<button class="blue-pill active-more">More</button></div>
+	<button class="button primary big active-more">More</button></div>
 
 	<div class="col-xs-12" style="height:30px;"></div>
 
 	<div class="col-xs-12">
-	<button class="blue-pill backbutton-to-toplevel">Back</button></div>
+	<button class="button primary big backbutton-to-toplevel">Back</button></div>
 </div>
 
 
@@ -146,194 +162,200 @@
 
 <div class="container-fluid clusters" id="academic-sciencesubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill">Science</button></div>
+	<button class="button primary big">Science</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">Subset</button></div>
+	<button class="button primary big">Subset</button></div>
 
 	<div class="col-xs-12" style="height:15px;"></div>
 
 	<div class="col-xs-6">
-	<button class="blue-pill">rdasfsafas</button></div>
+	<button class="button primary big">rdasfsafas</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">afasfafs</button></div>
+	<button class="button primary big">afasfafs</button></div>
 
 	<div class="col-xs-12" style="height:30px;"></div>
 
 	<div class="col-xs-12">
-	<button class="blue-pill backbutton-to-academicsub">Back</button></div>
+	<button class="button primary big backbutton-to-academicsub">Back</button></div>
 
 
 </div>
 
 <div class="container-fluid clusters" id="academic-engsubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill">Eng</button></div>
+	<button class="button primary big">Eng</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">Subset</button></div>
+	<button class="button primary big">Subset</button></div>
 	<div class="col-xs-12">
-	<button class="blue-pill backbutton-to-academicsub">Back</button></div>
+	<button class="button primary big backbutton-to-academicsub">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="cultural-asiasubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill">ASIA</button></div>
+	<button class="button primary big">ASIA</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">SUBSET</button></div>
+	<button class="button primary big">SUBSET</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill backbutton-to-culturalsub">Back</button></div>
+	<button class="button primary big backbutton-to-culturalsub">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="cultural-africasubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill">AFRICA</button></div>
+	<button class="button primary big">AFRICA</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">SUBSET</button></div>
+	<button class="button primary big">SUBSET</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill backbutton-to-culturalsub">Back</button></div>
+	<button class="button primary big backbutton-to-culturalsub">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="cultural-europesubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill">EUROPE</button></div>
+	<button class="button primary big">EUROPE</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">SUBSET</button></div>
+	<button class="button primary big">SUBSET</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill backbutton-to-culturalsub">Back</button></div>
+	<button class="button primary big backbutton-to-culturalsub">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="cultural-northamericasubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill">NORTHAMER</button></div>
+	<button class="button primary big">NORTHAMER</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">SUBSET</button></div>
+	<button class="button primary big">SUBSET</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill backbutton-to-culturalsub">Back</button></div>
+	<button class="button primary big backbutton-to-culturalsub">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="cultural-southamericasubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill">SOUTHAMER</button></div>
+	<button class="button primary big">SOUTHAMER</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">SUBSET</button></div>
+	<button class="button primary big">SUBSET</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill backbutton-to-culturalsub">Back</button></div>
+	<button class="button primary big backbutton-to-culturalsub">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="cultural-moresubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill">MORE</button></div>
+	<button class="button primary big">MORE</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">SUBSET</button></div>
+	<button class="button primary big">SUBSET</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill backbutton-to-culturalsub">Back</button></div>
+	<button class="button primary big backbutton-to-culturalsub">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="greek-guyssubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill">GUYS</button></div>
+	<button class="button primary big">GUYS</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">SUBSET</button></div>
+	<button class="button primary big">SUBSET</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill backbutton-to-greeksub">Back</button></div>
+	<button class="button primary big backbutton-to-greeksub">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="greek-girlssubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill">GIRLS</button></div>
+	<button class="button primary big">GIRLS</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">SUBSET</button></div>
+	<button class="button primary big">SUBSET</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill backbutton-to-greeksub">Back</button></div>
+	<button class="button primary big backbutton-to-greeksub">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="professional-premedsubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill">PREMED</button></div>
+	<button class="button primary big">PREMED</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">SUBSET</button></div>
+	<button class="button primary big">SUBSET</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill backbutton-to-professionalsub">Back</button></div>
+	<button class="button primary big backbutton-to-professionalsub">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="professional-prehealthsubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill">PREHEALTH</button></div>
+	<button class="button primary big">PREHEALTH</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">SUBSET</button></div>
+	<button class="button primary big">SUBSET</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill backbutton-to-professionalsub">Back</button></div>
+	<button class="button primary big backbutton-to-professionalsub">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="professional-prepharmsubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill">PREPHARM</button></div>
+	<button class="button primary big">PREPHARM</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">SUBSET</button></div>
+	<button class="button primary big">SUBSET</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill backbutton-to-professionalsub">Back</button></div>
+	<button class="button primary big backbutton-to-professionalsub">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="social-videogamessubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill">VIDEO GAMES</button></div>
+	<button class="button primary big">VIDEO GAMES</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">SUBSET</button></div>
+	<button class="button primary big">SUBSET</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill backbutton-to-socialsub">Back</button></div>
+	<button class="button primary big backbutton-to-socialsub">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="social-acapellasubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill">ACAPELLA</button></div>
+	<button class="button primary big">ACAPELLA</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">SUBSET</button></div>
+	<button class="button primary big">SUBSET</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill backbutton-to-socialsub">Back</button></div>
+	<button class="button primary big backbutton-to-socialsub">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="social-carsubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill">CAR</button></div>
+	<button class="button primary big">CAR</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">SUBSET</button></div>
+	<button class="button primary big">SUBSET</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill backbutton-to-socialsub">Back</button></div>
+	<button class="button primary big backbutton-to-socialsub">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="active-martialartssubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill">MARTIAL ARTS</button></div>
+	<button class="button primary big">MARTIAL ARTS</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">SUBSET</button></div>
+	<button class="button primary big">SUBSET</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill backbutton-to-activesub">Back</button></div>
+	<button class="button primary big backbutton-to-activesub">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="active-dancesubset" style="display:none;">
 	<div class="col-xs-6">
-	<button class="blue-pill">DANCE</button></div>
+	<button class="button primary big">DANCE</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill">SUBSET</button></div>
+	<button class="button primary big">SUBSET</button></div>
 	<div class="col-xs-6">
-	<button class="blue-pill backbutton-to-activesub">Back</button></div>
+	<button class="button primary big backbutton-to-activesub">Back</button></div>
 </div>
 
 <div class="container-fluid clusters" id="active-moresubset" style="display:none;">
 
 	<div class="container1" id="{{friends.1.link}}" name="{{friends.1.name}}" description="{{friends.1.description}}">
 	<div class="col-xs-12">
-	<center><img src="{{friends.1.imageURL}}" style="width:248px;" class="img-responsive img-rounded"/></center></div>
+	<center><img src="{{friends.1.imageURL}}" style="width:248px;margin-bottom:-1px;" class="img-responsive img-rounded"/></center></div>
 
-	<!-- <div class="col-xs-12 spacer"></div> -->
 
 	<div class="descripdiv" id="{{friends.1.name}}">
 		<center>
 		<div class="clubnamestext" style="width:248px;margin-left:-15px;">
-			<h4><div class="col-xs-12 namestripe">{{friends.1.name}}</div></h4>
+			<h4 class="col-xs-12 namestripe">{{friends.1.name}}
+
+				<div id="join{{link}}star" style="position:absolute;font-size:9px;margin-top:-7%;margin-left:83%;display:none;"><i style="color:yellow;" class="fa fa-star fa-2x"></i></div>
+				<div id="join{{link}}starnot" style="position:absolute;font-size:9px;margin-top:-7%;margin-left:83%;"><i style="color:yellow;" class="fa fa-star-o fa-2x"></i></div>
+
+			</h4>
 
 		</div>
 
-	<div class="btn-group" id="{{friends.1.name}}" style="width:248px;margin-left:-15px;">
+		<p class="descriptiontext2">{{friends.1.description}}</p>
+
+	<div class="btn-group" id="{{friends.1.name}}" style="width:248px;margin-left:-15px;margin-top:-15px;">
   <a class="btn btn-default" style="font-size:10px" href="#"><i class="fa fa-tags"></i></a>
   <a class="btn btn-default" style="font-size:10px" href="#">{{friends.1.tag1}}</a>
     <a class="btn btn-default" style="font-size:10px" href="#">{{friends.1.tag2}}</a>
@@ -343,13 +365,23 @@
 	</div>
 
 
-	<p class="descriptiontext">{{friends.1.description}}</p>
-
 		</center>
 	</div>
-	<div class="col-xs-12" style="height:10px;"></div>
 
-	<button class="col-xs-12 button pill big join">JOIN (+)</button>
+	<button class="col-xs-4 button primary big profile">Profile</button>
+	<div class="col-xs-4"></div>
+
+	<div id="join{{link}}leave" style="display:none;" hack="join{{link}}">
+	<a class="leave">
+	<button class="col-xs-4 button primary big danger">Leave</button>
+	</a>
+	</div>
+
+	<div id="join{{link}}"><a class="join"><button class="col-xs-4 button primary big">Join</button></a></div>
+
+
+
+
 	<div class="col-xs-12" style="height:10px;"></div>
 		<center><h5>- + - + - + - + - + - + - + - + - + - +</h5></center>
 
