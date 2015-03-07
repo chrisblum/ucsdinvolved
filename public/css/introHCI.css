@@ -69,7 +69,8 @@ box-shadow: 0px 6px 30px -4px rgba(0,0,0,0.75);
   opacity:0.7;
 }
 
-ul { margin: 0; padding: 0; }
+ul { margin: 0; padding: 0;
+list-style-type: none; }
 
 .bg-style {
   background: url("../images/bg.png");
