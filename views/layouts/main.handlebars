@@ -19,13 +19,18 @@
 		<script src="js/clubtriton.js"></script>
     <script src="js/match.js"></script>
     <script src="js/login.js"></script>
+    <script src="js/jquery.fastLiveFilter.js"></script>
 
     <script>
 function goBack() {
     window.history.back()
 }
 </script>
-
+<script>
+    $(function() {
+        $('#search_input').fastLiveFilter('#club_list');
+    });
+</script>
 
 </head>
 

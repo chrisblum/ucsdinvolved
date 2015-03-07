@@ -19,7 +19,7 @@
 	<center style="margin-top:-18px;margin-bottom:0px;">- + - + - + - + - + - + - + - + - + - +</center>
 	</div>
 
-	<div><input type="text" placeholder="Search club directory..." class="col-xs-12"></input></div>
+	<div><input type="text" placeholder="Search club directory..." id="search_input" class="col-xs-12"></input></div>
 
 	<center>- + - + - + - + - + - + - + - + - + - +</center>
 	<center style="margin-top:-18px;">+ - + - + - + - + - + - + - + - + - + -</center>
@@ -28,9 +28,9 @@
 	<div>{{searchvalue}}</div>
 
 <!-- CLUB DIV -->
-
+<ul id="club_list">
 	{{#each friends}}
-
+<li id="{{name}}">
 	<div class="striped container1 img-rounded" id="{{link}}" name="{{name}}" description="{{description}}">
 	
 	<div class="col-xs-12"><center><img src="{{imageURL}}" style="width:248px;" class="img-responsive img-rounded"/></center>
@@ -85,9 +85,9 @@
 	<center style="opacity:1;height:10px;">- + - + - + - + - + - + - + - + - + - + - + -</center>
 	<center style="opacity:1;margin-top:-18px;">+ - + - + - + - + - + - + - + - + - + - + - +</center>
 	<center style="opacity:1;margin-top:-18px;margin-bottom:30px;">- + - + - + - + - + - + - + - + - + - + - + -</center>
-
+</li>
 	{{/each}}
-
+</ul>
 <!-- END OF CLUBS -->
 
 	<center><h3><a class="btn btn-default" href="#" id="BackToTop">Back to Top</a></h3></center>
