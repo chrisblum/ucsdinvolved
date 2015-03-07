@@ -56,6 +56,11 @@ body {
 
 .descriptiontext {
   font-size:12px;
+  background-color:rgba(0,0,0,0.5);
+  color:white;
+  padding-bottom:7px;
+  padding-left:7px;
+  padding-right:7px;
 }
 
 .jumbotron {

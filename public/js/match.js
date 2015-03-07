@@ -3,21 +3,50 @@
 // Call this function when the page loads (the "ready" event)
 $(document).ready(function() {
 		console.log("matchjs connected!");
-		
-		$(".join").click(function(e){
+
+		$("body").on("click",".join",function(e){
 			e.preventDefault();
 
-			var name = $(this).attr("id");
-			var name2 = $(this).closest('div').attr("name");
-			var description = $(this).closest('div').attr("description");
-			console.log(description);
-			alert(name2 + " added!");
-			var newEntry = { "name": name, "description": description};
-			console.log(newEntry);
+			var boom = $(this).closest('div').attr('id');
+			console.log(boom);
+
+			$("#"+boom).slideUp('fast');
+			$("#"+boom+"leave").slideDown('fast');
+			$("#"+boom+"starnot").slideUp('slow');
+			$("#"+boom+"star").slideDown('slow');
+
+
+		});
+
+		$("body").on("click",".leave",function(e){
+			e.preventDefault();
+			var boom2 = $(this).closest('div').attr('id');
+			var boom3 = boom2.substr(0,(boom2.length-5));
+			console.log(boom3);
+			console.log(boom2);
+			$("#"+boom3+"leave").slideUp('fast');
+			$("#"+boom3).slideDown('fast');
+			$("#"+boom3+"star").slideUp('fast');
+			$("#"+boom3+"starnot").slideDown('fast');
 
 
 
 		});
+		
+		// $(".join").click(function(e){
+		// 	e.preventDefault();
+
+		// 	var name = $(this).attr("id");
+		// 	var name2 = $(this).closest('div').attr("name");
+		// 	var description = $(this).closest('div').attr("description");
+		// 	console.log(description);
+		// 	alert(name2 + " added!");
+		// 	var newEntry = { "name": name, "description": description};
+		// 	console.log(newEntry);
+
+
+
+		// });
 
 		$("#academic").click(function() {
 		$("#academicsubset").show();

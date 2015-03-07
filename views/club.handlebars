@@ -37,14 +37,14 @@
 
 	</div>
 
-	<div class="col-xs-12 spacer"></div>
 
 	<div class="descripdiv2" id="{{name}}">
 	 <center>
 		<div class="clubnamestext">
 			<h4 class="col-xs-12 namestripe">{{name}}
 
-				{{#if joined}}<div style="position:absolute;font-size:9px;margin-top:-7%;margin-left:83%;"><i style="color:red;" class="fa fa-heart fa-2x"></i></div>{{/if}}
+				<div id="join{{link}}star" style="position:absolute;font-size:9px;margin-top:-7%;margin-left:83%;display:none;"><i style="color:yellow;" class="fa fa-star fa-2x"></i></div>
+				<div id="join{{link}}starnot" style="position:absolute;font-size:9px;margin-top:-7%;margin-left:83%;"><i style="color:yellow;" class="fa fa-star-o fa-2x"></i></div>
 			</h4>
 		</div>
 
@@ -52,11 +52,8 @@
 
 	</center>
 	</div>
-<!-- <form style="display:none;" id="{{name}}form" action="/addclub" method="POST">
-	<input type="text" id="nameee" value="{{name}}">
-</form> -->
 
-	<div class="btn-group" id="{{name}}">
+	<div class="btn-group" style="margin-top:-12px;" id="{{name}}">
   <button class="btn btn-default" style="font-size:10px" href="#"><i class="fa fa-tags"></i></button>
   {{#if tag1}}<button class="btn btn-default" style="font-size:10px" href="#">{{tag1}}</button>{{/if}}
     {{#if tag2}}<button class="btn btn-default" style="font-size:10px" href="#">{{tag2}}</button>{{/if}}
@@ -64,14 +61,19 @@
   <!--     <a class="btn btn-default" style="font-size:10px" href="/searchbytag/{{tag3}}">{{tag3}}</a> -->
 	</div>
 
-	<div class="col-xs-12" style="height:5px;"></div>
+	<div class="col-xs-12" style="height:15px;"></div>
 
-	{{#if joined}}
-	<button class="col-xs-9 btn btn-default join" id="{{@index}}">LEAVE CLUB</button>
-	<button class="col-xs-3 btn btn-default" style="font-size:9px;height:35px;">JOINED</button>
 
-	{{/if}}
-	{{#unless joined}}<button class="col-xs-12 btn btn-default join">JOIN</button>{{/unless}}
+	<button class="col-xs-4 button primary big profile">Profile</button>
+	<div class="col-xs-4"></div>
+
+	<div id="join{{link}}leave" style="display:none;">
+	<a class="leave">
+	<button class="col-xs-4 button primary big">Leave</button>
+	</a>
+	</div>
+
+	<div id="join{{link}}"><a class="join"><button class="col-xs-4 button primary big">Join</button></a></div>
 
 
 	</div>
