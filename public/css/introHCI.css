@@ -55,9 +55,20 @@ body {
 
 }
 
+.shadows {
+  -webkit-box-shadow: 0px 6px 30px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 6px 30px -4px rgba(0,0,0,0.75);
+box-shadow: 0px 6px 30px -4px rgba(0,0,0,0.75);
+}
+
 .seethrough {
   opacity:0.9;
 }
+
+.seethroughicons {
+  opacity:0.7;
+}
+
 .bg-style {
   background: url("../images/bg.png");
   background-repeat: repeat;
